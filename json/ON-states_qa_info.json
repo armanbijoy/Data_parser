@@ -1,0 +1,5913 @@
+{
+  "cat-0": {
+    "title": "Road Signs",
+    "question_answer_list": [
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-615.jpg"
+        },
+        "options": [
+          "Any vehicle contain hazardous substances or toxins is prohibited on this road",
+          "Any vehicle contain hazardous substances or toxins is permitted on this road",
+          "There is permit of passing other vehicles on this road",
+          "Drivers must not drive on the left lane"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-686.png"
+        },
+        "options": [
+          "Shows route to nearby hospital",
+          "Shows lane specific for ambulance",
+          "Shows facilities that are accessible by wheelchair",
+          "Shows accessible parking ahead"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-595.png"
+        },
+        "options": [
+          "Drivers must take the left turn",
+          "Drivers must keep left of the traffic island",
+          "Drivers must park on the right side of the road",
+          "Drivers must keep right of the traffic island"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-578.png"
+        },
+        "options": [
+          "This sign shows that drivers should slow down the speed",
+          "This sign shows that drivers must come to a complete stop",
+          "This sign shows that the vehicles in intersection or close to it have the right to go first",
+          "This sign shows that there is an intersection ahead"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-611.png"
+        },
+        "options": [
+          "Road forks to the left",
+          "Drivers must turn right",
+          "Drivers must go straight",
+          "Road forks to the right."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-635.png"
+        },
+        "options": [
+          "The road ahead is slippery when wet",
+          "There is a winding road ahead",
+          "There maybe a land sliding ahead",
+          "There is high occupancy lanes ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-613.jpg"
+        },
+        "options": [
+          "Any vehicle contain hazardous substances or toxins is prohibited on this road",
+          "This road is prohibited for long commercial vehicles",
+          "Any vehicle contain hazardous substances or toxins is permitted on this road",
+          "The parking is prohibited in this area"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-594.png"
+        },
+        "options": [
+          "No crosswalk in the area ahead",
+          "No bicycles allowed on this road",
+          "No vehicles allowed on this road",
+          "No pedestrian allowed on this road"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-590.png"
+        },
+        "options": [
+          "Drivers must not take right turn when facing red light at intersection",
+          "Drivers must take right turn when facing red light at intersection",
+          "Drivers can go straight when facing a red light at intersection",
+          "Drivers must come to a complete stop when facing red light at intersection"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5640.png"
+        },
+        "options": [
+          "This lane is for buses only",
+          "This lane is for trucks only",
+          "This lane is for bicycles only",
+          "This lane is not for bicycles"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-576.png"
+        },
+        "options": [
+          "Drivers should slow down his vehicle",
+          "There are stopped vehicles ahead",
+          "Drivers should slow down his vehicle",
+          "Drivers must come to a complete stop"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-587.png"
+        },
+        "options": [
+          "Drivers must not turn left at the intersection",
+          "Drivers must turn left at the intersection",
+          "Drivers must not enter in the intersection",
+          "Drivers must not drive their vehicle on the left lane"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-688.png"
+        },
+        "options": [
+          "Shows stopped vehicle within the road",
+          "Shows long commercial vehicle usually of 40 meter in length",
+          "Shows fast moving vehicle usually above 40 km/hr",
+          "Shows slow moving vehicle usually under 40 km/hr"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-621.png"
+        },
+        "options": [
+          "Roundabout ahead, Drivers must travel in counter-clockwise direction",
+          "There is U-turn ahead",
+          "Roundabout ahead, Drivers must travel in clockwise direction",
+          "There is a construction zone ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-631.png"
+        },
+        "options": [
+          "There is a bicycle crossing ahead",
+          "This road contain an official bicycle-lane",
+          "There is a bicycle parking ahead",
+          "Bicycles are prohibited in this area"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5635.png"
+        },
+        "options": [
+          "Drivers can only turn right at the intersection when in the lane",
+          "Drivers can only turn left at the intersection when in the lane",
+          "Drivers can only proceed straight when in the lane",
+          "Bicycles are prohibited in this area"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-684.png"
+        },
+        "options": [
+          "Shows the exits from the freeway",
+          "Shows route to the airport",
+          "Shows route to the passenger railway station",
+          "Shows traffic control information"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-584.png"
+        },
+        "options": [
+          "Drivers must not stop in the area between these signs",
+          "Drivers cannot park their vehicles between these signs",
+          "Ongoing construction in the area between these signs",
+          "Drivers must not speed-up in the area between these signs"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-580.png"
+        },
+        "options": [
+          "There is a bicycle parking ahead",
+          "This road contain official bicycle route",
+          "There is a bicycle institute ahead",
+          "Bicycling is prohibited in this area"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-651.png"
+        },
+        "options": [
+          "Watch out for pedestrians in this road",
+          "This road is specific for pedestrians",
+          "There is a pedestrian crosswalk ahead",
+          "There is a residential area ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-652.png"
+        },
+        "options": [
+          "There is a dead-end ahead",
+          "There may be a traffic jam ahead",
+          "There is a steep hill ahead",
+          "There are fallen rocks on the road ahead"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-625.png"
+        },
+        "options": [
+          "None of the above",
+          "The speed limit in the area ahead",
+          "The safest minimum speed limit at the curve",
+          "The safest maximum speed limit at the curve"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-643.png"
+        },
+        "options": [
+          "Two-way traffic in single road separating ahead",
+          "The lane ahead is only one-way",
+          "Drivers must take U-turn ahead",
+          "Two-way traffic in different roads merging ahead"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-623.png"
+        },
+        "options": [
+          "The pavement narrows ahead",
+          "There is hidden intersection ahead",
+          "There is a dead-end ahead",
+          "There is a bridge ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-632.png"
+        },
+        "options": [
+          "There is a construction zone ahead",
+          "There is a dead-end ahead",
+          "There is a construction zone ahead",
+          "There is a stop sign ahead"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-581.png"
+        },
+        "options": [
+          "This is a private parking area",
+          "Drivers cannot park their vehicles in this area",
+          "Drivers can only park their vehicles during other than the time mentioned",
+          "Drivers can only park their vehicle during the mentioned time"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-687.png"
+        },
+        "options": [
+          "This sign shows oversize load or non-dimensional load carrying vehicles",
+          "This sign shows fast moving trucks or vehicles",
+          "This sign shows slow moving trucks or vehicles",
+          "This sign shows the oversize truck"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-589.png"
+        },
+        "options": [
+          "There is no U-turn ahead",
+          "Drivers must take U-turn ahead",
+          "Drivers must take left turn ahead",
+          "Do not take U-Turn ahead"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-577.png"
+        },
+        "options": [
+          "Warning for park-zone ahead : Drive with caution and lookout for children",
+          "Warning for school-zone ahead : Drive with caution and lookout for children",
+          "Warning for hospital-region ahead : Drive with caution and lookout for patients",
+          "Warning for pedestrian-crossing ahead : Drive with caution and lookout for pedestrians"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-656.png"
+        },
+        "options": [
+          "There is a parking area for fire trucks",
+          "There is a fire station ahead",
+          "There is a construction zone ahead",
+          "There is an upcoming fire truck entrance from the mentioned side of the road"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5647.png"
+        },
+        "options": [
+          "Action or activity within the circle is not permitted.",
+          "Action or activity within the circle is permitted.",
+          "Action or activity within the circle is used as alert.",
+          "Action or activity within the circle is used as warning."
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-654.png"
+        },
+        "options": [
+          "There is a hidden school bus stop ahead",
+          "There is a school zone ahead",
+          "There is an intersection ahead",
+          "There is a railway crossing on the road ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-671.png"
+        },
+        "options": [
+          "Drivers must reduce the speed and be prepared to stop",
+          "Drivers must come to a complete stop immediately",
+          "Drivers must increase the speed and try to pass through the area",
+          "Drivers must not stop in the area between these sign"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-681.jpg"
+        },
+        "options": [
+          "Shows the exits from the freeway",
+          "Shows the distance in km for the upcoming cities or town",
+          "Shows the construction zone ahead in the mentioned direction",
+          "Shows the upcoming roundabout exits with the respective destinations"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-653.png"
+        },
+        "options": [
+          "There may be a water present on the road",
+          "There is a sharp right turn ahead",
+          "There is a railway crossing on the road ahead",
+          "Shows the upcoming roundabout exits with the respective destinations"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-640.png"
+        },
+        "options": [
+          "There is a steep hill ahead",
+          "The road ahead may contain large vehicles\nB  There is a steep hill ahead",
+          "The parking area for large vehicles",
+          "The beginning of paved road"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-634.png"
+        },
+        "options": [
+          "The motorcars and cycles are prohibited in this road",
+          "The cyclist must keep on Left lane\nB  There is a steep hill ahead",
+          "The motorcar drivers can drive recklessly",
+          "This road is shared between Motorcars and bicycles"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-689.png"
+        },
+        "options": [
+          "Shows direction to the cities or towns",
+          "Shows alternative routes to drivers during unscheduled closure of provincial highway\nB  There is a steep hill ahead",
+          "Shows speed limit in the provincial highway",
+          "Shows traffic control information"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-618.png"
+        },
+        "options": [
+          "There is an intersection ahead",
+          "There is a narrow bridge ahead\nB  There is a steep hill ahead",
+          "Drivers must turn left ahead",
+          "Drivers must turn right ahead"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-596.png"
+        },
+        "options": [
+          "There is a speed limit of 50 km/hr in the area ahead",
+          "Drivers must keep their vehicles speed above 50 km/hr in the area ahead\nB  There is a steep hill ahead",
+          "Ending of a speed limit zone",
+          "There is a speed limit for longer vehicles usually 40m in length"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-583.png"
+        },
+        "options": [
+          "Drivers must remain on right side of the road",
+          "Drivers must come to a complete stop\nB  There is a steep hill ahead",
+          "Drivers can’t park in this area",
+          "Do not enter this road"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-659.jpg"
+        },
+        "options": [
+          "There is a three sided intersection ahead",
+          "There is a four sided intersection ahead\nB  There is a steep hill ahead",
+          "There is a U-turn ahead",
+          "There is a dead-end ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-638.png"
+        },
+        "options": [
+          "There is a slight right turn ahead",
+          "The right most lane ends ahead\nB  There is a steep hill ahead",
+          "There is a sharp left turn ahead",
+          "There is a slight right turn ahead"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-630.png"
+        },
+        "options": [
+          "The paved surface ends ahead",
+          "The paved surface starts ahead\nB  There is a steep hill ahead",
+          "Drivers must come to a complete stop",
+          "There is a dead-end ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5634.png"
+        },
+        "options": [
+          "There is a sharp right turn ahead",
+          "There is a winding road ahead\nB  There is a steep hill ahead",
+          "There is a sharp right turn ahead",
+          "The road turns left/right ahead"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-670.png"
+        },
+        "options": [
+          "There is a sharp right turn ahead",
+          "The vehicles bearing this sign are slower than usual traffic pace",
+          "The vehicles bearing this sign have the authority to park anywhere",
+          "Do not pass the vehicle bearing this sign when flashing"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-645.png"
+        },
+        "options": [
+          "There is an uneven road ahead",
+          "There is a speed-breaker ahead\nB  There is a steep hill ahead",
+          "There is a slippery road ahead",
+          "There is a winding of road ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-642.png"
+        },
+        "options": [
+          "There is a snowmobile parking ahead",
+          "There is a snowmobile crossing ahead\nB  There is a steep hill ahead",
+          "This road is specific for snowmobiles",
+          "There is a snowmobile parking ahead"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-662.png"
+        },
+        "options": [
+          "There are survey crews working ahead",
+          "There is a road work ahead\nB  There is a steep hill ahead",
+          "There is a construction zone ahead",
+          "There is a hospital zone ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5636.png"
+        },
+        "options": [
+          "There is an airport facility ahead",
+          "There is a telephone facility ahead\nB  There is a steep hill ahead",
+          "There is a parking facility ahead",
+          "There is a hospital facility ahead"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-663.png"
+        },
+        "options": [
+          "There is a construction zone ahead",
+          "The paved surface ends ahead\nB  There is a steep hill ahead",
+          "There is a construction zone ahead",
+          "There is a traffic control person ahead"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-588.png"
+        },
+        "options": [
+          "Drivers must go straight at the intersection",
+          "There is a dead-end ahead",
+          "The road is turning ahead",
+          "Drivers must not drive through the intersection"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-646.png"
+        },
+        "options": [
+          "There is a railway crossing ahead",
+          "There is a bridge ahead",
+          "There is an intersection ahead",
+          "There is a railway station ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-614.png"
+        },
+        "options": [
+          "Passing other vehicles is permitted on this road",
+          "Drivers must not pass other vehicles on this road",
+          "This is a single lane road",
+          "There is a parallel parking area ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-658.jpg"
+        },
+        "options": [
+          "There is a dead-end ahead",
+          "There is a danger ahead",
+          "There is an intersection ahead",
+          "This road is closed"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-627.png"
+        },
+        "options": [
+          "These sign shows the exit from the freeways",
+          "Drivers must not take right turn",
+          "These sign shows the exit from the freeways",
+          "These signs guide the drivers around the sharp curves in the road"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-628.png"
+        },
+        "options": [
+          "There is a winding road ahead",
+          "There is a slippery road ahead",
+          "There is a narrow bridge ahead",
+          "There is a land-sliding ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-600.png"
+        },
+        "options": [
+          "There is a speed limit in the area ahead when lights are flashing",
+          "The 40km/hr is the lowest maximum speed limit in the area ahead when light flashing",
+          "There is a speed limit in the area ahead when lights are not flashing",
+          "The flashing indicates the oncoming of train in the railway crossing the road ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-690.png"
+        },
+        "options": [
+          "Shows that the Long commercial vehicles is prohibited in this road",
+          "Shows route to the nearest Cargo place",
+          "Shows long commercial vehicle parking",
+          "Shows on the back of long commercial vehicles usually of 40 m in length"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-585.png"
+        },
+        "options": [
+          "Drivers must not stop their vehicle except while loading or unloading passengers in the area between these signs",
+          "Drivers cannot park their vehicle in the area between these signs",
+          "Drivers can speed-up in the area between these signs because of no pedestrian",
+          "Pedestrians are not allowed in the area between these signs"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-667.png"
+        },
+        "options": [
+          "There is a speed-breaker ahead. Drivers must slow down their vehicles",
+          "There is a stopping sign ahead. Drivers must come to a complete stop",
+          "Pavement is milled or grooved ahead. Drive with extra caution",
+          "Pavement is slippery ahead. Drivers must reduce the speed"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-668.png"
+        },
+        "options": [
+          "The lane ahead is closed for road work : Drivers must merge with traffic in open lane",
+          "There is a narrow bridge ahead : Drivers must switch to low gears",
+          "There is a sharp right turn ahead : Drivers must slowly turn their vehicles",
+          "The pavement ahead is narrow : Drivers must slow down their speed"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-637.png"
+        },
+        "options": [
+          "There is a road division ahead",
+          "The roads are merging ahead",
+          "There is a narrow bridge ahead",
+          "The oncoming traffic has the right-of-way"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-633.png"
+        },
+        "options": [
+          "There is an intersection ahead",
+          "Drivers must keep on left lane",
+          "This road contain one-way traffic",
+          "This road contain two-way traffic"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-597.png"
+        },
+        "options": [
+          "Drivers can pass other vehicles on this road",
+          "Drivers must not pass other vehicles on this road",
+          "There is a single-lane road ahead",
+          "There is a two-lane road ahead"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-616.png"
+        },
+        "options": [
+          "Restricted lane for passenger vehicles",
+          "Reserved lane for public vehicles like buses or car carrying mentioned passengers count",
+          "High speed lane",
+          "Reserved lane for ambulance"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-606.png"
+        },
+        "options": [
+          "There is U-turn ahead",
+          "There is intersection ahead",
+          "There is only two way right turn",
+          "There is only two way left turn"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-655.png"
+        },
+        "options": [
+          "There is an upcoming bus entrance from the mentioned side of the road",
+          "There is a narrow right turn ahead : Danger for buses",
+          "There is a parking area for buses",
+          "This road is specific for buses and large vehicles"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-647.png"
+        },
+        "options": [
+          "There is a sharp left turn or bend ahead : Be aware of danger",
+          "There is a sharp right turn or bend ahead : Be aware of danger",
+          "Drivers must travel on right lane",
+          "Hazard close to the right lane : Be aware of danger"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-609.jpg"
+        },
+        "options": [
+          "This two-lane road is converged into single-lane road ahead",
+          "This road is split into two lanes ahead",
+          "The drivers must turn right",
+          "The drivers must turn left"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-619.png"
+        },
+        "options": [
+          "This road is branching off ahead",
+          "The roads are converging ahead",
+          "Drivers must turn right",
+          "Drivers must go straight"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-624.png"
+        },
+        "options": [
+          "There is a slight right curve ahead",
+          "There is a slight left curve ahead",
+          "There is a sharp left turn ahead",
+          "There is a sharp right turn ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-629.png"
+        },
+        "options": [
+          "There is a crosswalk ahead",
+          "There is a coastal area ahead",
+          "There is a construction zone ahead",
+          "There is a lifted bridge ahead"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-648.png"
+        },
+        "options": [
+          "Animals crossing ahead",
+          "Wildlife office ahead",
+          "Animals are restricted in this road",
+          "Deer regularly cross, be alert for animals"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-579.png"
+        },
+        "options": [
+          "There is a construction zone ahead",
+          "There is a dead-end ahead",
+          "There is a railway track crossing the road ahead",
+          "Drivers must come to a complete stop"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5660.png"
+        },
+        "options": [
+          "Policemen at intersection",
+          "You will get a ticket if you do not obey the signal",
+          "Red light camera at intersection",
+          "Stop for red light at intersection"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-641.png"
+        },
+        "options": [
+          "Two roads going in the same direction merging ahead",
+          "There is a separation of road ahead",
+          "There is a slight left turn ahead",
+          "There is a U-turn ahead"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-622.png"
+        },
+        "options": [
+          "Drivers must go straight through the intersection ahead",
+          "Drivers from the side-road don’t have a clear view ahead at intersection",
+          "Drivers must turn to right at intersection",
+          "Drivers must come to a complete stop"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-620.png"
+        },
+        "options": [
+          "Intersection ahead, Drivers must go straight",
+          "Intersection ahead, Drivers must turn left or right",
+          "Intersection ahead, Drivers from the mentioned lane must yield the right-of-way to the other drivers",
+          "Intersection ahead, Drivers from the mentioned direction has the right-of-way"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5649.png"
+        },
+        "options": [
+          "Regulatory message such as speed limit.",
+          "Provides information such as distance to destination.",
+          "Provides information such as construction area.",
+          "Regulatory message such as fuel, food, lodging or assistance."
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-626.png"
+        },
+        "options": [
+          "There is a slight left curve ahead",
+          "There is a slight right curve ahead",
+          "There is a sharp right turn ahead",
+          "There is a sharp left turn ahead"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-644.png"
+        },
+        "options": [
+          "There is an underpass ahead with the mentioned height",
+          "There is a stop sign ahead within the mentioned distance",
+          "There is a pedestrian crossover ahead with the mentioned height",
+          "The vehicles longer than the mentioned length are prohibited"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-582.png"
+        },
+        "options": [
+          "Snowmobile training institute ahead",
+          "Snowmobile may use this road",
+          "Snowmobile is prohibited in this area",
+          "Snowmobile may use this road only in daylight"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-639.png"
+        },
+        "options": [
+          "There is a stop sign ahead",
+          "There is an intersection ahead",
+          "There is a railway track ahead",
+          "There is a traffic light ahead"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-682.jpg"
+        },
+        "options": [
+          "Shows driving instructions",
+          "Shows the pedestrian control information",
+          "Shows the weather conditions",
+          "Shows recent conditions related to traffic or lanes"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5648.png"
+        },
+        "options": [
+          "Action or activity within the circle is used as warning.",
+          "Action or activity within the circle is used as alert.",
+          "Action or activity within the circle is permitted.",
+          "Action or activity within the circle is not permitted."
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-649.png"
+        },
+        "options": [
+          "There is a truck entrance on the road from the mentioned direction ahead",
+          "There is a truck parking ahead",
+          "Trucks or large vehicles are prohibited in this road",
+          "This road is specific for large vehicles and trucks"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-636.png"
+        },
+        "options": [
+          "There is a speed-breaker ahead",
+          "There is a Parking area on the left",
+          "Danger close to the left sided lane",
+          "Danger close to the right sided lane"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-692.jpg"
+        },
+        "options": [
+          "These are bilingual signs conveying messages like No standing, School bus turning",
+          "These are for driving instructions",
+          "Shows only Construction zone related information",
+          "These are for directing drivers to off-road facilities"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does this sign mean?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-665.png"
+        },
+        "options": [
+          "There is a slippery road ahead",
+          "There is a steep hill ahead",
+          "There is a temporary detour from normal traffic route",
+          "There is a winding road ahead"
+        ],
+        "answer_index": [
+          2
+        ]
+      }
+    ]
+  },
+  "cat-1": {
+    "title": "Parking",
+    "question_answer_list": [
+      {
+        "question": {
+          "text": "Valid for up to one year and is issued upon request to individuals who hold a valid Accessible Parking Permit and plan to fly from any Ontario airport",
+          "img": ""
+        },
+        "options": [
+          "Traveller permit (purple)",
+          "Company permit (green)",
+          "Temporary permit (red)",
+          "Regular permit (blue)"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Where should you park your vehicle on the road?",
+          "img": ""
+        },
+        "options": [
+          "Park on the left side of the road in the direction of traffic",
+          "Park on the right side of the road in the direction of traffic",
+          "Park on the right side of the road opposite the direction of traffic",
+          "Park on the left side of the road opposite the direction of traffic"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "A ____________ is issued to people with permanent disabilities and is valid for five years",
+          "img": ""
+        },
+        "options": [
+          "Regular permit (blue)",
+          "Company permit (green)",
+          "Temporary permit (red)",
+          "Traveller permit (purple)"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Why is it recommended to turn the steering wheel towards the curb when parking a vehicle facing uphill on a road with no curb?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1479.jpg"
+        },
+        "options": [
+          "Setting the wheels towards the curb prevent the vehicle to roll backward",
+          "So that vehicle will go off the road rather than in traffic if the brakes become disengaged",
+          "To lock the steering you should set the steering wheels towards the right",
+          "None of these"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What precautions should you observe when you open the door of your parked vehicle?",
+          "img": ""
+        },
+        "options": [
+          "You should open your door wide to stop the traffic behind you",
+          "You should open your door quickly",
+          "You should open your door in front of the cyclists",
+          "You should not open your door without checking over your shoulders"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "what circumstances is it permissible to use parking lights?",
+          "img": ""
+        },
+        "options": [
+          "For parking only",
+          "At any time",
+          "When driving in heavy fog",
+          "When driving at night"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the minimum distance you should maintain when parking near a bridge?",
+          "img": ""
+        },
+        "options": [
+          "100 metres",
+          "150 metres",
+          "190 metres",
+          "250 metres"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "When planning to park your vehicle, what attributes should you look for in a parking space?",
+          "img": ""
+        },
+        "options": [
+          "Smaller than your vehicle",
+          "As long as your vehicle",
+          "Three times longer than your vehicle",
+          "One and half times longer than your vehicle"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the correct positioning for your vehicle before you maneuver into a parallel parking space behind the vehicle in front of it?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5563.jpg"
+        },
+        "options": [
+          "That the rear bumper of your vehicle is in line with the rear bumper of that vehicle",
+          "That the rear bumper of your vehicle is in line with the front bumper of that vehicle",
+          "That the front bumper of your vehicle is in line with the rear bumper of that vehicle",
+          "That the front bumper of your vehicle is in line with the front bumper of that vehicle"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the minimum distance you should maintain when parking near an intersection?",
+          "img": ""
+        },
+        "options": [
+          "16",
+          "12",
+          "6",
+          "9"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What is an “accessible parking permit”?",
+          "img": ""
+        },
+        "options": [
+          "It is a special parking permit given to drivers of large vehicles",
+          "It is a special parking permit given to disabled people",
+          "It is a special parking permit given to office workers",
+          "It is a special parking permit given to female drivers"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What's the recommended approach for accelerating your vehicle when transitioning from a roadside stop into light traffic?",
+          "img": ""
+        },
+        "options": [
+          "Accelerate quickly",
+          "Accelerate moderately",
+          "Accelerate slowly",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What precautions should you observe when making a brief stop at the side of the road?",
+          "img": ""
+        },
+        "options": [
+          "You must stop your vehicle within 30 centimeters from the curb",
+          "You must turn on your signals before slowing down unless there are vehicles to enter from the side roads",
+          "You must check the mirrors and blind spots before slowing down for a clear way",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the minimum distance you should maintain when parking near the closest rail of a level railway crossing?",
+          "img": ""
+        },
+        "options": [
+          "20",
+          "9",
+          "15",
+          "5"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the reason for avoiding parking your vehicle next to or across from any construction or obstruction?",
+          "img": ""
+        },
+        "options": [
+          "Because it would divert worker's attention",
+          "Because it would obstruct traffic",
+          "Because it may get damaged",
+          "None of the above"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "When parking your vehicle on a road with an uphill incline and a curb, what steps should you take?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1479.jpg"
+        },
+        "options": [
+          "Set the steering wheels straight",
+          "Turn the steering wheels towards the road",
+          "Turn the steering wheels away from the road",
+          "Turn the steering wheels towards the curb"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the rationale for employing the \"Dutch reach method\" when opening the door of a vehicle?",
+          "img": ""
+        },
+        "options": [
+          "It will let you open your door wide",
+          "It will stop the traffic for you",
+          "It will let you shoulder check at the same time",
+          "None of these"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the minimum distance you should maintain when parking near a fire hydrant?",
+          "img": ""
+        },
+        "options": [
+          "3",
+          "6",
+          "15",
+          "9"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What measures can you take to ensure that your parked vehicle doesn't roll down hill?",
+          "img": ""
+        },
+        "options": [
+          "You should set your vehicle’s park brake",
+          "You should set your transmission in park or lower gear",
+          "You should park your vehicle at an angle from the curb",
+          "Both A and B"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What is parallel parking?",
+          "img": ""
+        },
+        "options": [
+          "Parallel parking means parking a vehicle with its wheels parallel and next to the curb or side of the road.",
+          "When you park along another vehicle",
+          "Parallel parking means parking a vehicle with its wheels touching the side of the road.",
+          "None of the above"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the initial procedure for beginning to maneuver your vehicle into the parallel parking space you intend to use?",
+          "img": ""
+        },
+        "options": [
+          "First, reverse straight very slowly, then steer sharply to the right and continue moving until your rear bumper comes in contact with the curb",
+          "First, reverse straight very slowly, then steer slightly to the right and continue moving until your rear bumper comes in contact with the vehicle behind your parking space",
+          "First, reverse straight very quickly, then steer sharply to the right while simultaneously pressing the brake pedal completely to skid your vehicle directly into the parking space",
+          "First, reverse straight very slowly, then steer sharply to the right and continue moving until your steering wheel comes in line with the rear bumper of the vehicle parked in front of your parking space"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "A vehicle should not be parked",
+          "img": ""
+        },
+        "options": [
+          "At a place where you will block sidewalks, crosswalks, and road entrance",
+          "At a place where you will block already parked vehicles",
+          "On the traveled part of the road",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "After you've parked your vehicle, what steps should you take next?",
+          "img": ""
+        },
+        "options": [
+          "You should turn off the ignition and the lights",
+          "You should remove the keys",
+          "You should lock the doors for safety",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do after stopping by the side of the road?",
+          "img": ""
+        },
+        "options": [
+          "Turn off your turn signal",
+          "Turn on your hazard signals",
+          "Sound your horn",
+          "Both A & B"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What happens when a person misuses an accessible parking permit?",
+          "img": ""
+        },
+        "options": [
+          "That person will be fined",
+          "That person will go to jail",
+          "This act will be applauded",
+          "None of these"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the minimum distance you should maintain when parking near a public entrance to a hotel, theater, or public hall while it is open to the public?",
+          "img": ""
+        },
+        "options": [
+          "15",
+          "6",
+          "9",
+          "3"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What type of permit is issued when the disability is anticipated to endure for more than two months but is not permanent, and is it renewable?",
+          "img": ""
+        },
+        "options": [
+          "Company permit (green)",
+          "Traveller permit (purple)",
+          "Temporary permit (red)",
+          "Regular permit (blue)"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "When parking on the right side of a street, whether it has a curb or not, and you are facing downhill, in which direction should you turn your vehicle's front wheels?",
+          "img": ""
+        },
+        "options": [
+          "You should turn your front wheel to the left",
+          "You should keep your front wheels straight",
+          "You should turn your front wheel to the right",
+          "None of the above"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the reasons for avoiding parking your vehicle at or near the scene of a fire, explosion, motor vehicle crash, or other incidents?",
+          "img": ""
+        },
+        "options": [
+          "Because it would obstruct traffic",
+          "Because it would obstruct emergency response personnel and equipment",
+          "Because it would be helpful for emergency response personnel to pass through",
+          "Both A and B"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do before pulling out your vehicle from the roadside stop?",
+          "img": ""
+        },
+        "options": [
+          "Turn off your flashers and turn on your left turn signal",
+          "Release the parking brake and shift into the first gear",
+          "Check your blind spots and mirrors",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      }
+    ]
+  },
+  "cat-2": {
+    "title": "Driving At Nighttime And In Bad Weather",
+    "question_answer_list": [
+      {
+        "question": {
+          "text": "What should be your first step when trying to recover from a skid with your vehicle?",
+          "img": ""
+        },
+        "options": [
+          "Steer in the direction you want to go.",
+          "Apply brakes hard.",
+          "Steer in the opposite direction of the skid.",
+          "Steer straight ahead."
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What's the single most crucial action to take when you begin to skid?",
+          "img": ""
+        },
+        "options": [
+          "You should keep your foot on the brake pedal to increase speed.",
+          "You should jump out of the car.",
+          "You should keep your foot off the brake pedal if you start to skid.",
+          "You should keep your foot on the brake pedal to decrease speed."
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the dangers posed by rain?",
+          "img": ""
+        },
+        "options": [
+          "Rain may reduce the visibility",
+          "Rain makes road surfaces slippery",
+          "Rain may disturb the emotional state of the driver",
+          "Both a & b"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What does the presence of a flashing blue light on a motor vehicle signify?",
+          "img": ""
+        },
+        "options": [
+          "A motor vehicle carrying explosives",
+          "A police emergency vehicle",
+          "An ambulance",
+          "Snow removal equipment"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "When should the low-beam headlights be used?",
+          "img": ""
+        },
+        "options": [
+          "When there is oncoming traffic at night, even when the highway is divided.",
+          "When there is oncoming traffic at night, even when the highway is not divided.",
+          "When there is incoming traffic during the day, even when the highway is divided.",
+          "None of the above."
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "How does ABS work?",
+          "img": ""
+        },
+        "options": [
+          "It detects an abnormal drop in wheel speed and causes brake force to be reduced",
+          "It keeps the engine of the vehicle warm enough",
+          "It controls the flow of fuel to the engine",
+          "All of these"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "While it's advisable to avoid driving in fog, if you find yourself driving in foggy conditions or get caught in one, what actions should you take?",
+          "img": ""
+        },
+        "options": [
+          "You should use low-beam headlights",
+          "You should make sure the full lighting system of your vehicle is turned ON",
+          "You should slow down and drive at a speed that suits the condition",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "As a teenage driver holding a G2 license for six months, and until you either obtain your full G license or reach the age of 20, what is the maximum number of passengers you can transport between midnight and 5 a.m.?",
+          "img": ""
+        },
+        "options": [
+          "4 passengers aged 19 or under",
+          "1 passenger aged 19 or under",
+          "2 passengers aged 19 or under",
+          "3 passengers aged 19 or under (No restrictions for passengers the age of 20 or over)"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Why should you use low beams when there is smoke or fog outside?",
+          "img": ""
+        },
+        "options": [
+          "Because low beams are good for other drivers",
+          "Because low beams give more visibility",
+          "Because high beams reflect the light back to you and create a glare.",
+          "None of the above"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "How can you cope with a daytime glare?",
+          "img": ""
+        },
+        "options": [
+          "By using your sun visor",
+          "By using a pair of good quality sunglasses",
+          "By closing your eyes",
+          "Both a & b"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "How can you avoid the dangers posed by rain?",
+          "img": ""
+        },
+        "options": [
+          "Try to drive on clear sections of road",
+          "Try to steer smoothly",
+          "Try to brake and accelerate smoothly",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "How can you assess the functionality of your brakes following a drive through a flooded road?",
+          "img": ""
+        },
+        "options": [
+          "By stopping quickly and firmly at 50 Km/hr",
+          "By threshold braking",
+          "By driving over 80 km/hr",
+          "None of these"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do if you get caught driving in a dense fog?",
+          "img": ""
+        },
+        "options": [
+          "You should move off the road and into a safe parking area",
+          "You should slow down and continue your journey",
+          "You should switch to low-beam headlights",
+          "All of the above"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Why is it dangerous to drive at night?",
+          "img": ""
+        },
+        "options": [
+          "At night, your reactions are disturbed",
+          "At night, you cannot see far ahead",
+          "There are more police on the road",
+          "Both b & c"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you avoid when driving in foggy weather?",
+          "img": ""
+        },
+        "options": [
+          "Stopping on the travelled portion of the road",
+          "Speeding up suddenly, even if the fog seems to be clearing",
+          "Passing a vehicle or trying to get away from a vehicle that is following too closely",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What steering corrections should you apply when your vehicle is in a skid?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5587.jpg"
+        },
+        "options": [
+          "Make large steering adjustments, point the tires along the centre of your lane.",
+          "Make large steering adjustments, point the tires along the right side of your lane.",
+          "Do not make large steering adjustment, point the tires along the right side of your lane.",
+          "Do not make large steering adjustments, point the tires along the centre of your lane."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "To prevent hydroplaning, which happens when your vehicle's tires rise above the water on the road during heavy rain, what measures should you take?",
+          "img": ""
+        },
+        "options": [
+          "Ensure that your tires on your vehicle have good tread depth",
+          "Ensure that the tires on the vehicle are inflated to the proper tire pressure",
+          "Reduce vehicle speed when driving in the rain",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "When you encounter an oncoming vehicle with its high-beam headlights glaring at you, what actions should you take?",
+          "img": ""
+        },
+        "options": [
+          "Switch to your high-beam headlight",
+          "Come to a complete stop",
+          "Switch to your high-beam headlight",
+          "Avoid looking directly into the vehicle’s headlights"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Driving at the maximum speed limit is riskier at night compared to daytime because:",
+          "img": ""
+        },
+        "options": [
+          "You cannot see as far ahead at night.",
+          "Your reaction time is slower at night.",
+          "Some drivers unlawfully drive with parking lights only.",
+          "The roadways are more apt to be slippery at night."
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do when you lose control of the vehicle during rain?",
+          "img": ""
+        },
+        "options": [
+          "Release the pressure on the accelerator.",
+          "Do not brake.",
+          "Look and steer where you want the front of the vehicle to go.",
+          "All of the above."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the things that should be followed when driving in whiteout conditions?",
+          "img": ""
+        },
+        "options": [
+          "You should keep your windows and mirrors clean",
+          "You should drive slowly and avoid passing and changing lanes",
+          "You should use a low-beam headlight and make sure that the full lighting system of your vehicle is turned ON",
+          "All of the above."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Why shouldn’t you drive in foggy weather?",
+          "img": ""
+        },
+        "options": [
+          "Fog can alter the favorable road conditions",
+          "Fog can increase your stopping distance",
+          "Fog can reduce your visibility",
+          "None of these"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What is black ice?",
+          "img": ""
+        },
+        "options": [
+          "A cube of black-colored ice on the curb",
+          "A thin layer of ice covers the road",
+          "Oil present on the road",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "A vehicle may skid when",
+          "img": ""
+        },
+        "options": [
+          "Driving too fast",
+          "Braking and accelerating too aggressively",
+          "Riding on a slippery surface",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Why should you avoid driving in puddles?",
+          "img": ""
+        },
+        "options": [
+          "The water from the puddle could drown your engine, causing it to stall",
+          "The spray of water from the puddle could obstruct the vision of adjacent motorists",
+          "A puddle may hide a large pothole that could damage your vehicle’s suspension",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "When should you use threshold braking?",
+          "img": ""
+        },
+        "options": [
+          "When you need to stop quickly",
+          "When you need to stop on a wet or icy surface",
+          "When you need to accelerate quickly",
+          "Both a & b"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "When should you turn on the headlights?",
+          "img": ""
+        },
+        "options": [
+          "When you are driving at night or at any time when you cannot see clearly 150 meters away.",
+          "When you are driving at night or at any time when you cannot see clearly 10 meters away.",
+          "When you are driving at night or at any time when you cannot see clearly 50 meters away.",
+          "Only at night"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the potential consequences of using cruise control in adverse weather and road conditions?",
+          "img": ""
+        },
+        "options": [
+          "When your tires contact ice, the cruise control will continue to apply the accelerator and you could lose control.",
+          "When your tires contact ice, the cruise control will stop applying pressure on the accelerator and you could lose control.",
+          "Nothing bad will happen.",
+          "None of the above."
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Why is it advisable to transition to low beams when approaching a curve or crest of a hill?",
+          "img": ""
+        },
+        "options": [
+          "So you can see oncoming vehicles",
+          "So you won’t blind oncoming drivers",
+          "So you can reduce your stopping distance",
+          "Both a & b"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Snow-removal vehicles on public roadways are equipped with a flashing",
+          "img": ""
+        },
+        "options": [
+          "Green light",
+          "Blue light",
+          "Red light",
+          "White light"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "How should you pass through rutted snowy roads?",
+          "img": ""
+        },
+        "options": [
+          "You should avoid braking and accelerating that may cause a skid",
+          "You should pass through slowly",
+          "You should avoid sudden steering when passing",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the best way to stop quickly on a wet or icy roadway is to",
+          "img": ""
+        },
+        "options": [
+          "Apply power brakes",
+          "Apply brakes the same way you always do",
+          "Keep foot off brake and let compression stop you",
+          "Pump the brake until you come to a complete stop"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do when you are driving on slippery patches?",
+          "img": ""
+        },
+        "options": [
+          "Use extra caution and try to avoid unnecessary lane or speed changes.",
+          "Stop the car and wait for the road to become normal.",
+          "Go as fast as you can.",
+          "Go as slow as you can."
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What function does an anti-lock braking system (ABS) serve?",
+          "img": ""
+        },
+        "options": [
+          "It prevents tire skids and the accompanying loss of steering control",
+          "It helps avoid a collision with the vehicle in front",
+          "It locks the wheel to stop the vehicle more easily",
+          "All of the above"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Back ice is dangerous because",
+          "img": ""
+        },
+        "options": [
+          "It is not dangerous.",
+          "It is black in colour.",
+          "It can be harmful to the environment.",
+          "A driver cannot see it."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Roadways are most slippery",
+          "img": ""
+        },
+        "options": [
+          "After it has been raining for a while",
+          "During a heavy downpour",
+          "In construction zones",
+          "The first rain after a dry spell"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What precautions should you take when driving through the fog?",
+          "img": ""
+        },
+        "options": [
+          "You should leave a safe braking distance between you and the vehicle ahead",
+          "You should make sure that you are going slow enough",
+          "You should move off the road if the visibility is decreasing",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Which of the following should you avoid during times of snow and other inclement weather?",
+          "img": ""
+        },
+        "options": [
+          "Slow driving",
+          "Low beam headlight",
+          "Cruise control",
+          "None of these"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What course of action should you take when there's dense fog and smoke, and you can't find a safe spot to park on the road?",
+          "img": ""
+        },
+        "options": [
+          "All the passengers should move to a safe location away from the vehicle in case it is hit.",
+          "All the passengers should sit and wait for help in the car.",
+          "All the passengers should exit the car and wait for help to come standing near it.",
+          "None of the above."
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "How can you control a skidding vehicle?",
+          "img": ""
+        },
+        "options": [
+          "Ease off on the accelerator or brake",
+          "By heavy braking",
+          "Avoid oversteering",
+          "Both A & C"
+        ],
+        "answer_index": [
+          3
+        ]
+      }
+    ]
+  },
+  "cat-3": {
+    "title": "Driver's License And Traffic Violations",
+    "question_answer_list": [
+      {
+        "question": {
+          "text": "If a police officer pulls you over, he can ask for",
+          "img": ""
+        },
+        "options": [
+          "Proof of motor vehicle ownership",
+          "Driver’s license",
+          "Liability insurance card",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "For a first-time conviction of breaking Ontario's Move Over law, what penalties can you expect to face?",
+          "img": ""
+        },
+        "options": [
+          "A fine of $400 – $2,000 and three demerit points",
+          "A fine of $1,000 – $4,000, a possible jail sentence and a possible licence suspension",
+          "A fine of $100 – $400 and two demerit points",
+          "Three demerit points but no fine"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Racing and careless driving will result in",
+          "img": ""
+        },
+        "options": [
+          "Six demerit points",
+          "Three demerit points but no fine",
+          "Four demerit points",
+          "Seven demerit points"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "According to the driver’s license law, it is illegal to",
+          "img": ""
+        },
+        "options": [
+          "Have more than one Ontario driver’s license",
+          "Use an altered license",
+          "Lend your license",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the outcomes when a driver (level 1 or level 2) amasses two or more demerit points on their record?",
+          "img": ""
+        },
+        "options": [
+          "He will receive a warning letter",
+          "His vehicle will be impounded",
+          "His license will be suspended for a year",
+          "None of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "For how long do demerit points remain on your driving record?",
+          "img": ""
+        },
+        "options": [
+          "For six months",
+          "For five years",
+          "For two years",
+          "For one week"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "For which of the following driving infractions will you receive a penalty of three demerit points?",
+          "img": ""
+        },
+        "options": [
+          "Improper driving where the road is divided into lanes",
+          "Crossing a divided road where no proper crossing is provided",
+          "Failing to stop for a school bus",
+          "Both A and B"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the consequences of driving while using a mobile phone or viewing a display screen unrelated to the driving task?",
+          "img": ""
+        },
+        "options": [
+          "Two demerit points",
+          "Four demerit points",
+          "Five demerit points",
+          "Three demerit points"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the outcomes when a fully licensed driver amasses six demerit points?",
+          "img": ""
+        },
+        "options": [
+          "His vehicle will be impounded",
+          "His license will be suspended for a year",
+          "He will receive a warning letter",
+          "His license will be suspended for a year"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "For which of the following traffic violations will a driver incur three demerit points?",
+          "img": ""
+        },
+        "options": [
+          "Driving the wrong way on a divided road",
+          "Driving or operating a vehicle on a closed road",
+          "Going the wrong way on a one-way road",
+          "All of above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Which of the following driving offense will result in six demerit points?",
+          "img": ""
+        },
+        "options": [
+          "Exceeding the speed limit by 40km/h or more on roads with a speed limit of less than 80km/h",
+          "Exceeding the speed limit by 50 km/h or more",
+          "Failing to obey traffic control slow sign",
+          "Both A & B"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Which of the following driving offense will result in two demerit points?",
+          "img": ""
+        },
+        "options": [
+          "Failing to lower headlight beam",
+          "Failing to wear a seatbelt",
+          "Failing to obey signs",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "How often should a person of 80 years of age or older renew his driver’s license?",
+          "img": ""
+        },
+        "options": [
+          "Every three years",
+          "Every four years",
+          "Every five years",
+          "Every two years"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Failing to stop for a school bus will result in",
+          "img": ""
+        },
+        "options": [
+          "Six demerit points",
+          "Four demerit points",
+          "Seven demerit points",
+          "Three demerit points"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "For fully licensed drivers, what happens to the number of points on their record after a 30-day suspension period?",
+          "img": ""
+        },
+        "options": [
+          "Seven",
+          "Five",
+          "Three",
+          "Eight"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the consequences when a fully licensed driver accrues 15 demerit points?",
+          "img": ""
+        },
+        "options": [
+          "His vehicle will be impounded",
+          "His license will be suspended for 30 days",
+          "His license will be suspended for 60 days",
+          "He will receive a warning letter"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "If you fail to remain at the scene of a collision, you will face",
+          "img": ""
+        },
+        "options": [
+          "Six demerit points",
+          "Seven demerit points",
+          "Five demerit points",
+          "Three demerit points"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "When should you tell the Ministry of Transportation about your name or address change?",
+          "img": ""
+        },
+        "options": [
+          "Within six days",
+          "Within three days",
+          "Within nine days",
+          "Within twelve days"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Which of the following driving offence will result in three demerit points?",
+          "img": ""
+        },
+        "options": [
+          "Failing to obey the directions of a police officer",
+          "Failing to stop at a pedestrian crossover",
+          "Failing to yield the right-of-way",
+          "Both A and C"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Failing to signal may result in",
+          "img": ""
+        },
+        "options": [
+          "Three demerit points",
+          "Four demerit points",
+          "Five demerit points",
+          "Two demerit points"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Which of the following driving offence will result in two demerit points?",
+          "img": ""
+        },
+        "options": [
+          "Driver failing to ensure toddler passenger is secured",
+          "Driver failing to ensure infant passenger is secured",
+          "Driver failing to ensure the child is secured",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "If a fully licensed or hybrid driver receives their first conviction for distracted driving, what penalties will they encounter?",
+          "img": ""
+        },
+        "options": [
+          "A 30-day licence suspension.",
+          "A fine of up to $1,000 and 3 demerit points.",
+          "A fine of up to $500 and 2 demerit points.",
+          "none of the above."
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "If a fully licensed or hybrid driver receives their first conviction for distracted driving, what penalties will they encounter?",
+          "img": ""
+        },
+        "options": [
+          "A 30-day licence suspension.",
+          "A fine of up to $1,000 and 3 demerit points.",
+          "A fine of up to $500 and 2 demerit points.",
+          "none of the above."
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "Failing to report a collision to a police officer will result in",
+          "img": ""
+        },
+        "options": [
+          "Four demerit points",
+          "Three demerit points",
+          "Six demerit points",
+          "Five demerit points"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "Driver failing to wear a seatbelt will result in",
+          "img": ""
+        },
+        "options": [
+          "Four demerit points",
+          "Three demerit points",
+          "Five demerit points",
+          "Two demerit points"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "If you fail to stop for the police, you will face?",
+          "img": ""
+        },
+        "options": [
+          "Three demerit points",
+          "Four demerit points",
+          "Six demerit points",
+          "Seven demerit points"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Failing to obey signs will result in",
+          "img": ""
+        },
+        "options": [
+          "Two demerit points",
+          "Three demerit points",
+          "Four demerit points",
+          "Five demerit points"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "When may you lend your driver’s licence?",
+          "img": ""
+        },
+        "options": [
+          "To a person learning to drive.",
+          "It is not permitted.",
+          "In emergencies.",
+          "For identification purposes."
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the consequences if a driver (level 1 or level 2) accumulates nine demerit points once more following a suspension?",
+          "img": ""
+        },
+        "options": [
+          "His license may be suspended for six months",
+          "His license may be suspended for 60 days",
+          "His vehicle will be impounded for two weeks",
+          "He will go to jail for one month"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the consequences of having a license that has been suspended, cancelled, or expired for over three years?",
+          "img": ""
+        },
+        "options": [
+          "You have to pay extra fine to take your license back",
+          "You have to re-apply for the license and meet all the requirements again",
+          "You have to buy a new motor vehicle",
+          "Nothing happens"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the consequences of having a license that has been suspended, cancelled, or expired for over three years?",
+          "img": ""
+        },
+        "options": [
+          "Driver failing to ensure passenger under 16 years is wearing a seatbelt",
+          "Driver failing to ensure that a passenger under 16 years is sitting in a seat that has a seatbelt",
+          "Crowding the driver’s seat",
+          "Both A and B"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What will happen if a driver (level 1 or level 2) accumulates six demerit points?",
+          "img": ""
+        },
+        "options": [
+          "His licence will be suspended for 60 days",
+          "He will receive a second warning letter",
+          "He will receive a third warning letter",
+          "None of the above"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "For which of the subsequent driving violations will you receive a three-point demerit penalty?",
+          "img": ""
+        },
+        "options": [
+          "Improper use of a high-occupancy vehicle (HOV) lane",
+          "Driving through, around or under a railway crossing barrier",
+          "Exceeding the speed limit by 16 to 29 km/h",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "For drivers (level 1 and level 2), after 60 days of suspension, the number of points on record will be reduced to",
+          "img": ""
+        },
+        "options": [
+          "4 points",
+          "6 points",
+          "3 points",
+          "Zero"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What driving infractions will lead to the accumulation of three demerit points?",
+          "img": ""
+        },
+        "options": [
+          "Driving a vehicle equipped with a radar detector",
+          "Crowding the driver’s seat",
+          "Failing to stop for a school bus",
+          "Both A and B"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "For which of the following traffic violations will you incur four demerit points?",
+          "img": ""
+        },
+        "options": [
+          "Following too closely (tailgating)",
+          "Failing to stop at a pedestrian crossover",
+          "Failing to stop at a railway crossing",
+          "Both a & b"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "To drive in Ontario, a person must",
+          "img": ""
+        },
+        "options": [
+          "Have a valid Ontario driver’s license",
+          "Be 16 years old or more",
+          "Have a health insurance",
+          "Both A and B"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What steps can an older driver take to enhance their safety while driving?",
+          "img": ""
+        },
+        "options": [
+          "He should not drive while in pain",
+          "He should make sure that his current medication has no negative effect on his driving ability",
+          "He should regularly check his hearing and vision",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Three demerit points",
+          "img": ""
+        },
+        "options": [
+          "Seven demerit points",
+          "Six demerit points",
+          "Four demerit points",
+          "Three demerit points"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the repercussions when a fully licensed driver amasses nine demerit points?",
+          "img": ""
+        },
+        "options": [
+          "His licence will be suspended for 60 days",
+          "He will receive a third warning letter",
+          "He will receive a second warning letter",
+          "None of the above"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "When must drivers with vision limitations specified on their driver's license consistently wear glasses or contact lenses?",
+          "img": ""
+        },
+        "options": [
+          "Walking",
+          "Sleeping",
+          "Driving",
+          "Watching movie"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "For which of these driving violations will a driver receive a three-point demerit penalty?",
+          "img": ""
+        },
+        "options": [
+          "Failing to remain at the scene of a collision",
+          "Failing to move, where possible, into another lane when passing a stopped emergency vehicle",
+          "Failing to slow and carefully pass a stopped emergency vehicle",
+          "Both B and C"
+        ],
+        "answer_index": [
+          3
+        ]
+      }
+    ]
+  },
+  "cat-4": {
+    "title": "Preparation For Driving",
+    "question_answer_list": [
+      {
+        "question": {
+          "text": "What steps should you take to properly position the driver's seat before driving?\"",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1263.jpg"
+        },
+        "options": [
+          "So that the steering wheel does not block your view of the instrument panel",
+          "So that you can easily push pedals to the floor",
+          "So that you can easily see over the steering wheel",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the purpose of drivers using low beam headlights when they encounter oncoming vehicles?",
+          "img": ""
+        },
+        "options": [
+          "To save the battery of his vehicle",
+          "To disturb the oncoming vehicles",
+          "No actual reason",
+          "To minimize the glare of his headlights onto them"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the function of booster seats?",
+          "img": ""
+        },
+        "options": [
+          "Booster seats raise a child so that the child seatbelt works more effectively",
+          "Booster seats raise an adult so that the adult seatbelt works more effectively",
+          "Booster seats raise a child so that the adult seatbelt works more effectively",
+          "All of the above"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What function does the interior rearview mirror serve?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1294.jpg"
+        },
+        "options": [
+          "To see the right and left sides of the car",
+          "To see directly behind the car through the rear window",
+          "To see the passengers in the rear seats",
+          "None of the above"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "For Level One (G1) drivers, the sole permitted front-seat passenger is their accompanying driver. The accompanying driver must possess a valid Class G (or higher) license and have a minimum of ______ years of driving experience.",
+          "img": ""
+        },
+        "options": [
+          "2 years",
+          "6 years",
+          "4 years",
+          "No experience"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "In the event that a passenger under the age of 16 is found without a seat belt, who will receive a demerit point?",
+          "img": ""
+        },
+        "options": [
+          "The vehicle’s owner",
+          "That passenger’s parents",
+          "The driver",
+          "That passenger’s parents"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "Is the blind spot on all vehicles the same?",
+          "img": ""
+        },
+        "options": [
+          "Yes, it is the same for all",
+          "Larger vehicles do not have any blind spots",
+          "No, it is not the same and depends on the size of the vehicle",
+          "Smaller vehicle do not have any blind spots"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the importance of switching to low beam headlights when approaching oncoming vehicles?",
+          "img": ""
+        },
+        "options": [
+          "No actual reason",
+          "To disturb the oncoming vehicles",
+          "To save the battery of his vehicle",
+          "To minimize the glare of his headlights onto them"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "In vehicles, where do the majority of blind spots tend to be located?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5412.jpg"
+        },
+        "options": [
+          "None of the above",
+          "Blind spots in most vehicles are to the front right and back right of the vehicle",
+          "Blind spots in most vehicles are to the back left and back right of the vehicle",
+          "Blind spots in most vehicles are to the front left and back left of the vehicle"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What measures can you take to make sure that blind spots are kept to a minimum?",
+          "img": ""
+        },
+        "options": [
+          "That can be done by adjusting the interior rearview mirrors.",
+          "That can be done by adjusting the exterior rearview mirrors.",
+          "That can be done by driving in a more careful way.",
+          "Both B and C."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the advantages of wearing seat belts in the event of a fire or when a vehicle is submerging in water?",
+          "img": ""
+        },
+        "options": [
+          "It ejects you out of your vehicle",
+          "It keeps you in your seat so you can't get of your vehicle",
+          "Both a & b",
+          "It keeps you conscious so you can get out of the vehicle"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Why are children's seats or booster seats best installed in the rear-facing seats?",
+          "img": ""
+        },
+        "options": [
+          "There is no actual reason",
+          "There isn’t enough space in the front seats for a booster seat",
+          "If the airbag inflates, it could seriously injure the child.",
+          "Children will disturb the driver"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "Why should you use your head restraint correctly and keep it in the proper position?",
+          "img": ""
+        },
+        "options": [
+          "Because it helps you reach the pedals easily",
+          "Because it lets you see around the car",
+          "Because it greatly reduces the risk of injuries in collisions and sudden vehicle movements",
+          "Both A and C"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "Which of the following can reduce your ability to drive?",
+          "img": ""
+        },
+        "options": [
+          "Raised BAC level",
+          "Drugs",
+          "Sickness or injury",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Before you drive, make sure you are comfortable with?",
+          "img": ""
+        },
+        "options": [
+          "The conditions in which you will be driving",
+          "Your vehicle",
+          "Your physical, mental and emotional state",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "The driver should be able to see the ground ________________ in front of the vehicle.",
+          "img": ""
+        },
+        "options": [
+          "2 meters",
+          "3 meters",
+          "4 meters",
+          "5 meters"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What does the seatbelt prevent you from?",
+          "img": ""
+        },
+        "options": [
+          "Being thrown out of the vehicle during a collision",
+          "Collision of passengers within the car with each other",
+          "Head injury",
+          "All of above"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "The windows of your vehicle",
+          "img": ""
+        },
+        "options": [
+          "Must not be coated with any material that blocks inside as well as the outside view",
+          "Must be coated in a way that someone from outside cannot see inside of the car",
+          "Must not be coated with any material that blocks inside as well as the outside view",
+          "None of these"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Headlights are required to be turned on to clearly see people or vehicles less than ______________ away",
+          "img": ""
+        },
+        "options": [
+          "100 metres",
+          "150 metres",
+          "200 metres",
+          "50 metres"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do every time you drive a vehicle equipped with seatbelts?",
+          "img": ""
+        },
+        "options": [
+          "Must buckle up all passengers in their own seatbelts",
+          "Must not tie a seatbelt, it makes you uncomfortable",
+          "Must buckle up all passengers in their own seatbelts",
+          "Both A and C"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the safest place for a child that is under the age of 13?",
+          "img": ""
+        },
+        "options": [
+          "A booster seat",
+          "A car seat",
+          "The back seat",
+          "Both a and b"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "Your vehicle’s headlights must shine a white light that can be seen at least ___________ in front",
+          "img": ""
+        },
+        "options": [
+          "30 metres",
+          "80 metres",
+          "100 metres",
+          "150 metres"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Over which part of your body should the lap belt be worn?",
+          "img": ""
+        },
+        "options": [
+          "Chest",
+          "Stomach",
+          "Thighs",
+          "Hips"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "When should children start wearing a seat belt?",
+          "img": ""
+        },
+        "options": [
+          "When they weigh up to 36 kilograms with height up to 145 centimeters ( 4ft 9inches)",
+          "When they turn eight years old",
+          "When they become able to wear a seat belt properly",
+          "All of above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What steps should you take to properly configure the driver's seat before starting to drive?",
+          "img": ""
+        },
+        "options": [
+          "So that the steering wheel does not block your view of the instrument panel",
+          "So that you can easily push pedals to the floor",
+          "So that you can easily see over the steering wheel",
+          "All of above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Why should you not put more than one passenger into a seat belt?",
+          "img": ""
+        },
+        "options": [
+          "This can cause serious injury or even death in a collision",
+          "The car will become overcrowded",
+          "They will fight with each other",
+          "Nothing will happen"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the correct positioning for the adjustable headrest  in your vehicle?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1265.jpg"
+        },
+        "options": [
+          "So that the back of the head should be below the headrest",
+          "So that the back of the head should be in the middle of the headrest",
+          "So that the back of the head should be above the headrest",
+          "There is no such use of a headrest"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does proactive driving include?",
+          "img": ""
+        },
+        "options": [
+          "Thinking about whether hazards are developing.",
+          "Taking actions to reduce risks.",
+          "Watching your surroundings.",
+          "All of the above."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What can be the penalty for drivers who neglect to ensure there is a functional seat belt for every passenger in their vehicle, in terms of their license?",
+          "img": ""
+        },
+        "options": [
+          "At least 90 days",
+          "At least 60 days",
+          "At least 30 days",
+          "At least 45 days"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the function of the seat belt?",
+          "img": ""
+        },
+        "options": [
+          "Keep you in your seat during a collision",
+          "The seat belt has no function",
+          "Keep you calm during rush hours",
+          "Keep you straight while driving"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Before you drive any vehicle, you should",
+          "img": ""
+        },
+        "options": [
+          "Learn to operate controls and instruments in your vehicle without having to look at the instructions",
+          "Check all warning lights if and see if they stay on after you drive away",
+          "Know where all the controls and instruments in your vehicle are and what they do",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What will happen if you drive when tired?",
+          "img": ""
+        },
+        "options": [
+          "In an emergency, you may make a wrong decision",
+          "You might fall asleep",
+          "Your thinking ability slows down",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the weight limit for infants that should be buckled up in the rear-facing child seat or booster seat?",
+          "img": ""
+        },
+        "options": [
+          "5 kg",
+          "10 kg",
+          "9 kg",
+          "15 kg"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "Your vehicle must have red rear lights that can be seen ___________ away",
+          "img": ""
+        },
+        "options": [
+          "50 kg",
+          "90 metres",
+          "100 metres",
+          "150 metres"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Which statement is true for a driver with a G1 license?",
+          "img": ""
+        },
+        "options": [
+          "He can only drive when there is no traffic",
+          "He can only drive during daylight",
+          "He can only drive at night",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      }
+    ]
+  },
+  "cat-5": {
+    "title": "Sharing The Road",
+    "question_answer_list": [
+      {
+        "question": {
+          "text": "What is the appropriate course of action when you are nearing a bus bay, and a bus activates its left-turn signals, indicating its intention to exit the bay?",
+          "img": ""
+        },
+        "options": [
+          "You should allow the bus to re-enter traffic",
+          "You should increase your speed and pass through that bus as quick as you can",
+          "You should slow your speed and then pass through that bus",
+          "None of these"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the proper way for a cyclist to indicate a left or right turn using hand signals?",
+          "img": ""
+        },
+        "options": [
+          "By extending their left or right arm",
+          "They can use their turn lights",
+          "They are not allowed to turn",
+          "There is no way"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the role or function of \"bike boxes\" on roadways?",
+          "img": ""
+        },
+        "options": [
+          "To provide parking for bikes and bicycles",
+          "To help prevent collisions between motorists and bicycles",
+          "To provide lanes for bikes and bicycles",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the reason for refraining from unnecessary horn use when passing a cyclist?",
+          "img": ""
+        },
+        "options": [
+          "Because the cyclist may get frightened and lose his balance",
+          "Because cyclists do not like it",
+          "Because the cyclist can’t move faster",
+          "None of these"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "A bike lane can be present beside what type of area?",
+          "img": ""
+        },
+        "options": [
+          "Railway track",
+          "Parking bays",
+          "Highway",
+          "All of the above"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "How does sharing the road with a large commercial vehicle influence your driving performance?",
+          "img": ""
+        },
+        "options": [
+          "Due to heavy air turbulence",
+          "Due to slippery road",
+          "Due to blockage of sight",
+          "None of these"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Why do you need extra space between you and a person riding a motorcycle?",
+          "img": ""
+        },
+        "options": [
+          "Because motorcycles can stop very quickly.",
+          "Because motorcycles can break down very quickly.",
+          "Because motorcycles can slip very quickly.",
+          "Because motorcycles can stop very slowly."
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "_______________ vehicles are one of the slowest moving of all road users",
+          "img": ""
+        },
+        "options": [
+          "Buses",
+          "Horse-drawn vehicles",
+          "Tractors",
+          "All of the above"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "When you have a vehicle tailgating you, what steps should you consider taking?",
+          "img": ""
+        },
+        "options": [
+          "Slow down slightly to increase the space in front of your car",
+          "Move into another lane when it is safe to do so",
+          "Pull over to let the tailgater pass",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "With the exception of passing, what is the required separation distance that should be observed between commercial vehicles traveling in the same direction on a highway outside a city, town, or village?",
+          "img": ""
+        },
+        "options": [
+          "60 m (200 ft.)",
+          "30 m (100 ft.)",
+          "120 m (400 ft.)",
+          "240 m (800 ft.)"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the prescribed minimum distance that drivers of motor vehicles must uphold when overtaking a cyclist?",
+          "img": ""
+        },
+        "options": [
+          "1 meter",
+          "2 meter",
+          "3 meter",
+          "4 meter"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "How should you change lanes when passing a cyclist?",
+          "img": ""
+        },
+        "options": [
+          "You are not allowed to change lanes when there is a cyclist on the road with you.",
+          "The same rules apply to a cyclist as other vehicles.",
+          "You need to change lanes with less consideration as cyclists will always stop for the vehicles.",
+          "All of the above."
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "Which of the following are considered pedestrians too?",
+          "img": ""
+        },
+        "options": [
+          "People operating medical scooters",
+          "People using wheelchairs",
+          "Both a & b",
+          "None of these"
+        ],
+        "answer_index": []
+      },
+      {
+        "question": {
+          "text": "What is the purpose of highly reflective tape affixed to buggies?",
+          "img": ""
+        },
+        "options": [
+          "To show that the vehicle is dangerous",
+          "To show that the vehicle is moving at 40 km/hr or less",
+          "To show that the vehicle belongs to the Queen",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "When a traffic signal alters while a pedestrian is still crossing the street, who holds the right of way in this situation?",
+          "img": ""
+        },
+        "options": [
+          "The pedestrian",
+          "Motorist making turns",
+          "Motorist coming from his left",
+          "Motorist coming from his right"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "When is a car driver allowed to enter the bike lane?",
+          "img": ""
+        },
+        "options": [
+          "When it needs to move fast",
+          "When turning right at a corner",
+          "When to over-take a cycle",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the maximum speed for farm machinery and tractors?",
+          "img": ""
+        },
+        "options": [
+          "40 km/hr",
+          "20 km/hr",
+          "50 km/hr",
+          "10 km/hr"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Why should you not tailgate a large vehicle?",
+          "img": ""
+        },
+        "options": [
+          "It can lead to an accident",
+          "The driver cannot see you if you are directly behind it",
+          "It can lead to a collision",
+          "None of the above"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the reason for a large commercial vehicle's initial rightward movement and subsequent left turn while making a left turn?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1357.jpg"
+        },
+        "options": [
+          "To avoid the collision with a right curb",
+          "To avoid the collision with a left curb",
+          "To avoid friction of the road",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "Why shouldn’t you stop behind a large vehicle?",
+          "img": ""
+        },
+        "options": [
+          "Because the large vehicle will take time to accelerate again",
+          "Because when the driver releases the brake, the vehicle may rollback.",
+          "Because it may cause your vehicle to stall",
+          "Because it causes a traffic jam"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "Why should you never share a lane with a motorcycle rider?",
+          "img": ""
+        },
+        "options": [
+          "They need the whole lane to travel safely.",
+          "They have bigger motorcycles than your vehicles.",
+          "They are not paying attention to the world around them.",
+          "All of the above."
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Why is it dangerous to drive along with a large commercial vehicle?",
+          "img": ""
+        },
+        "options": [
+          "Because if the commercial vehicle stop and you’re behind it then you have nowhere to go",
+          "Because they have large blind spots",
+          "Because they are big enough to block your sight",
+          "All of the above."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Why should you maintain a possible distance with buggies?",
+          "img": ""
+        },
+        "options": [
+          "Because the horse may attack you",
+          "Because passing too closely can scare the horse causing it to change the direction",
+          "Because it is illegal to drive close to the buggies",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the meaning of the two chevrons painted above a bicycle symbol?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1369.jpg"
+        },
+        "options": [
+          "That this lane is reserved for bicycles only",
+          "That this lane is shared between vehicles and bicycles",
+          "That this is a “High Occupancy Lane”",
+          "That this portion of the road is reserved for parking"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the reason for a driver to exercise increased caution when driving alongside a sidewalk where pedestrians are using mobile phones for texting, calling, or other handheld activities?",
+          "img": ""
+        },
+        "options": [
+          "Because they can’t hear vehicle’s horns and other traffic noises",
+          "Because they move faster than normal pedestrians",
+          "Because they are not in their senses",
+          "Driver doesn’t have to be careful around them"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Where should you drive safely and slowly?",
+          "img": ""
+        },
+        "options": [
+          "Hospital zones",
+          "Residential areas",
+          "School zones",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "How does farm machinery move as compared to other road users?",
+          "img": ""
+        },
+        "options": [
+          "It moves faster than other road users",
+          "It moves quite slowly as compared to other road users",
+          "It moves at same pace as the other road users",
+          "None of the above"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "When a large vehicle is making a turn onto the road you are traveling on at an intersection, where should you come to a stop?",
+          "img": ""
+        },
+        "options": [
+          "Stop back from the intersection to allow the operator the space to complete the turn.",
+          "Stop a little ahead of the intersection to allow the operator the space to complete the turn.",
+          "Stop far ahead of the intersection to allow the operator the space to complete the turn.",
+          "Stop right at the intersection to allow the operator the space to complete the turn."
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Why shouldn’t you follow a cyclist too closely?",
+          "img": ""
+        },
+        "options": [
+          "Because they don’t have brake lights to warn the drivers behind them",
+          "Because they are fast",
+          "Because they may block your sight",
+          "None of these"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Who should be given the right-of-way by drivers and cyclists at a pedestrian crossing or any place that features a crosswalk?",
+          "img": ""
+        },
+        "options": [
+          "Pedestrians",
+          "Students",
+          "Patients",
+          "All of the above"
+        ],
+        "answer_index": []
+      },
+      {
+        "question": {
+          "text": "What could happen when you drive along with a large commercial vehicle in bad weather conditions?",
+          "img": ""
+        },
+        "options": [
+          "The road will get slippery due to that large vehicle",
+          "The large vehicle will become less visible due to its size",
+          "The large vehicle will spray mud, snow, and debris on your windshield and can block your vision",
+          "None of these"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the colors of slow-moving signs that are displayed on the rear of farm machinery on the road?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1364.jpg"
+        },
+        "options": [
+          "Red, yellow, and green",
+          "Blue and black",
+          "Orange and red",
+          "Red and green"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "Why do pedestrians with skateboards, rollerblades, scooters, etc. require more attention on the road?",
+          "img": ""
+        },
+        "options": [
+          "Because they move faster than regular pedestrians",
+          "Because they increases the height of a person",
+          "Because these devices may reduce balance and can propel the person onto the roadway",
+          "None of these"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the crosswalk used for?",
+          "img": ""
+        },
+        "options": [
+          "Vehicle crossing",
+          "Because they increases the height of a person",
+          "Parking",
+          "Crossing for the disabled"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "When a streetcar is halted to pick up or drop off passengers, and there is a safety island present, what are the legal obligations you must adhere to?",
+          "img": ""
+        },
+        "options": [
+          "Sound horn and pass with caution",
+          "Stop atleast 2 metres behind the safety island",
+          "Pass with caution",
+          "Pass on the left side of the streetcar"
+        ],
+        "answer_index": [
+          2
+        ]
+      }
+    ]
+  },
+  "cat-6": {
+    "title": "Changing Road Directions",
+    "question_answer_list": [
+      {
+        "question": {
+          "text": "What is the correct procedure for executing a left turn from a two-way road onto another two-way road?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1422.jpg"
+        },
+        "options": [
+          "Move from the lane nearest and to the right of the yellow line into the lane nearest and to the right of the yellow line",
+          "Turn from the lane nearest and left to the curb into the lane nearest and left to the curb",
+          "Move from the lane nearest and to the right of the yellow line into the lane nearest and to the left of the curb",
+          "Any of the above"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "what conditions are you allowed to perform a right turn at an intersection when the traffic signal is displaying a red light (if it's a permissible action)?",
+          "img": ""
+        },
+        "options": [
+          "When there is a traffic jam in the intersection",
+          "Only make a turn when the way is clear after coming to a complete stop",
+          "When it is a one-way road you are moving in",
+          "None of them"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What things should you remember when exiting the roundabout?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1431.jpg"
+        },
+        "options": [
+          "Signal well before the exit you intend to take",
+          "Always exit the roundabout using the left lane",
+          "Maintain your position relative to other vehicles when exiting",
+          "Both a & c"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Can you make a left turn when facing a red traffic light?",
+          "img": ""
+        },
+        "options": [
+          "Yes, only when moving from a two-way road to a two-way road",
+          "Yes, only when moving from a one-way road to a one-way road",
+          "No",
+          "Yes, anywhere"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the reason for providing a significant amount of space to large vehicles when navigating through roundabouts?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1432.jpg"
+        },
+        "options": [
+          "Because they are fast-moving vehicles",
+          "Because they have to swing wide within the roundabout",
+          "Because they have small blind spots",
+          "Because they cause less turbulence"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "When is it illegal to drive in reverse?",
+          "img": ""
+        },
+        "options": [
+          "When trying to help someone in trouble",
+          "On a divided road that has a speed limit of more than 80 km/hr",
+          "On a public road",
+          "Because they cause less turbulence"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the appropriate positioning for your vehicle before executing a left turn from a two-way road onto another two-way road with a single left turn lane?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1686.jpg"
+        },
+        "options": [
+          "In the lane next to the curb",
+          "Into the lane to the right side of the yellow line",
+          "In the far-right lane of the road",
+          "Any of the above"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "Who should you yield the right-of-way to when making a right turn?",
+          "img": ""
+        },
+        "options": [
+          "To the oncoming vehicles",
+          "To pedestrians and traffic on the cross street",
+          "To the vehicles behind you",
+          "To the vehicles on your left"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "In the event that you miss your intended exit or cannot exit safely from the circular intersection using the left lane, what should be your course of action?",
+          "img": ""
+        },
+        "options": [
+          "You should take the next available exit",
+          "You should stay in your lane and travel around the circle again to take the exit",
+          "You should come to a complete stop within the intersection",
+          "You should slow down and make a wide U-turn to take the exit"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the appropriate method for executing a left turn from a one-way road onto a two-way road?",
+          "img": ""
+        },
+        "options": [
+          "Move from the lane nearest the right side of the road into the lane nearest and to the right side of the yellow line",
+          "Move from the lane nearest the left side of the road into the lane nearest and to the right side of the yellow line",
+          "Move from the lane nearest the left side of the road into the lane nearest and to the left side of the yellow line",
+          "Move from the lane nearest to the right side of the road into the lane nearest and to the left side of the yellow line"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "How do you turn a vehicle using the “hand over hand steering” method?",
+          "img": ""
+        },
+        "options": [
+          "Turn the steering wheel using a finger and with the other hand downshift the gear at the same time",
+          "Turn the steering wheel with one hand and cross the other hand over it, grip the wheel on the other side and continue turning.",
+          "Turn the steering wheel with both hands up to the limit",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What should be your position on the road before making a turn?",
+          "img": ""
+        },
+        "options": [
+          "You should be in your proper turning lane at least 15 meters before the intersection",
+          "You should be in the parking lane at least 10 meters before the intersection",
+          "You should be in the cyclist’s lane at least 10 meters before the intersection",
+          "You should be in the lane other than the turning lane before the intersection"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What is a “three-point turn”?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1439.jpg"
+        },
+        "options": [
+          "It is a clutch and throttle coordination method",
+          "It is a maneuver to turn-around",
+          "It is a smooth gear shifting method",
+          "It is a fine for illegal parking"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "Before making a three-point turn?",
+          "img": ""
+        },
+        "options": [
+          "Make sure you do not make a three-point turn on a curve in the road, on or near a railway crossing or hilltop, or near a bridge or tunnel that blocks your view",
+          "Make sure there are no cyclists or pedestrians",
+          "Make sure the way is clear in both directions",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What causes the driver to lose control of the vehicle and skid?",
+          "img": ""
+        },
+        "options": [
+          "Braking and steering at the same time",
+          "Steering and shifting the gears",
+          "Braking and giving the signals",
+          "Both b & c"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "When making a U-turn, you should first check",
+          "img": ""
+        },
+        "options": [
+          "The vehicle’s engine",
+          "The weather conditions",
+          "The traffic behind you",
+          "All of the above"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "After making a complete stop at the appropriate stopping point at an intersection with a red traffic signal, are you allowed to execute a right turn?",
+          "img": ""
+        },
+        "options": [
+          "No, you have to wait until the green light",
+          "Yes, unless it is prohibited by a sign",
+          "Yes, but only if the intersection is controlled by a peace officer",
+          "Yes, but only if it is a T-shaped intersection"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do before changing a lane or turning around a corner?",
+          "img": ""
+        },
+        "options": [
+          "You should speed up the vehicle",
+          "You should signal well",
+          "You should come to a complete stop",
+          "You should lock every door before the move"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do after you have completed the turn?",
+          "img": ""
+        },
+        "options": [
+          "Relax your grip on the steering wheel and let it return to the original position",
+          "Relax your grip on the steering wheel and let it return to the original position",
+          "You should come to a complete stop after the turn",
+          "Give turn signals after the turn"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "When should you not make a U-turn?",
+          "img": ""
+        },
+        "options": [
+          "When you can’t see at least 150 meters in both directions",
+          "When on or near railway crossing or hilltop",
+          "When driving on a curved road",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "How should you make a left turn from a two-way road onto a one-way road?",
+          "img": ""
+        },
+        "options": [
+          "Turn from the lane nearest and to the left of the curb into the first available lane on the left side of the road",
+          "Move from the lane nearest and to the right of the yellow line into the first available lane on the left side of the road",
+          "Move from the lane nearest and to the right of the yellow line into the first available lane on the right side of the road",
+          "Move from the lane nearest and to the right of the yellow line into the first available lane on the right side of the road"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "How should you make a right turn?",
+          "img": ""
+        },
+        "options": [
+          "Signal the left turn and then move into the right-hand lane only when the way is clear from the leftmost lane",
+          "Signal the right turn and then move into the right-hand lane only when the way is clear from the rightmost lane",
+          "Firstly, starting from the left lane move into the right lane of the other road, and then signal the right turn",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "How should you use a two-way left-turn lane?",
+          "img": ""
+        },
+        "options": [
+          "Move into the center lane, signal the left turn, speed up and then make your left turn",
+          "Signal and move into the center lane, slow down, and then make your turn when the way is clear",
+          "Signal the left turn and move into the lane just left to the center lane, speed up and then make your left turn",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "When making a right turn on a road that lacks a marked right-hand lane, where should you position your vehicle?",
+          "img": ""
+        },
+        "options": [
+          "Move as far as to the right of the road as possible",
+          "Move as far as to the left of the road as possible",
+          "Move into the left-hand lane",
+          "Don’t make a right turn"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Remember, the sharper the turn",
+          "img": ""
+        },
+        "options": [
+          "The closer you should be with the curb",
+          "The slower you should go",
+          "The faster you should go",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "Why are left turns more dangerous than right turns?",
+          "img": ""
+        },
+        "options": [
+          "Because it is hard to turn the steering wheels to the left",
+          "Because in the left turn your vehicle will be crossing the lanes of the oncoming traffic",
+          "Because the left side lanes are narrower than the right ones",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do while backing up the car?",
+          "img": ""
+        },
+        "options": [
+          "You should look forward when backing up",
+          "You should look over your shoulder in the direction you are moving",
+          "You should turn ON high beam headlights",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the reason for avoiding turning the steering wheel to the left while stopped at an intersection and waiting for oncoming traffic to clear?",
+          "img": ""
+        },
+        "options": [
+          "Your turn signals may turn on",
+          "Your vehicle could be pushed into the path of oncoming traffic",
+          "Your brake lights may turn on",
+          "Your steering may get locked"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "You are only permitted to remove your seatbelt while driving",
+          "img": ""
+        },
+        "options": [
+          "When driving slower than the regular traffic",
+          "When driving over 80 km/hr",
+          "When backing up the car",
+          "When carrying passengers"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you check before you begin to turn right?",
+          "img": ""
+        },
+        "options": [
+          "That the street you are turning onto has enough room in its curb lane",
+          "That the street you are turning onto has a marked crosswalk",
+          "That no cyclists or pedestrian is approaching the intersection",
+          "Both A and C"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "How can you turn around when you miss a turn or go too far along the road?",
+          "img": ""
+        },
+        "options": [
+          "You can do a three-point turn",
+          "You can take a U-turn",
+          "You can drive around the block",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      }
+    ]
+  },
+  "cat-7": {
+    "title": "Driving Along",
+    "question_answer_list": [
+      {
+        "question": {
+          "text": "What speed should you maintain while driving to ensure that you can do something specific?",
+          "img": ""
+        },
+        "options": [
+          "Stop within a safe distance",
+          "Stop within 60 metres",
+          "Stop within 150 metres",
+          "Stop within 90 metres"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What does the picture below indicate?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1302.jpg"
+        },
+        "options": [
+          "The driver is slowing or stopping",
+          "The driver is moving or turning right",
+          "The driver is moving or turning left",
+          "The driver is parking"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the shortest safe distance you are required to maintain from the vehicle in front of you?",
+          "img": ""
+        },
+        "options": [
+          "2 seconds",
+          "3 seconds",
+          "4 seconds",
+          "5 seconds"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Speed measuring warning devices are",
+          "img": ""
+        },
+        "options": [
+          "Useless",
+          "Legal",
+          "Illegal",
+          "Useful"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "In cities, villages, and towns without any posted speed limits, what is the highest speed limit that should be maintained?",
+          "img": ""
+        },
+        "options": [
+          "30 km/hr",
+          "50 km/hr",
+          "60 km/hr",
+          "70 km/hr"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do when a police officer is behind you with flashing emergency lights?",
+          "img": ""
+        },
+        "options": [
+          "You should move to a safe location to allow the vehicle to pass or stop behind you.",
+          "You should speed up and get out of the way.",
+          "You should give way to the police vehicle by moving to the extreme left of the lane.",
+          "All of the above."
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "When considering the steering wheel as a clock, what is the recommended hand position for your hands on the wheel?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1317.jpg"
+        },
+        "options": [
+          "Your right hand should be at about 3 o’clock and your left hand at about 9 o’clock",
+          "Your right hand should be at about 12 o’clock and your left hand at about 6 o’clock",
+          "Your right hand should be at about 7 o’clock and your left hand at about 1 o’clock",
+          "None of the above"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "When using the hand-over-hand method for a right turn, which hand initiates the turning force on the steering wheel first?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5503.jpg"
+        },
+        "options": [
+          "Your both hands",
+          "Your right hand",
+          "Your left hand",
+          "None of the above"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "A two-second rule does not apply to certain situations as you may need extra space",
+          "img": ""
+        },
+        "options": [
+          "When carrying heavy loads",
+          "When following a motorcycle or large truck",
+          "In bad weather",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "When should you move your vehicle after being stopped by a police officer?",
+          "img": ""
+        },
+        "options": [
+          "You can move the vehicle as soon as you think you are done.",
+          "You can move the vehicle when you have provided all documentation.",
+          "You can move the vehicle only when instructed by the police officer.",
+          "All of the above"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "If your turn signals and brake lights are not working, then what happens?",
+          "img": ""
+        },
+        "options": [
+          "You should drive slowly",
+          "You should use hand and arm signals",
+          "You should not be driving",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What does the picture below indicate?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5488.jpg"
+        },
+        "options": [
+          "The driver is parking",
+          "The driver is moving or turning left",
+          "The driver is moving or turning right",
+          "The driver is slowing or stopping"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "How should you do most of the steering and changing lanes?",
+          "img": ""
+        },
+        "options": [
+          "As slowly as possible",
+          "Without taking your hands off the wheel",
+          "With the help of the fingers only",
+          "As quick as possible"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "Where should you drive slower than the posted speed limit?",
+          "img": ""
+        },
+        "options": [
+          "School zones",
+          "Bad weather",
+          "Construction zones",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What should the driver do after signalling?",
+          "img": ""
+        },
+        "options": [
+          "Come to a complete stop",
+          "Move immediately",
+          "Check that the way is clear before you move",
+          "None of these"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "Why should you be more careful while driving along large commercial trucks?",
+          "img": ""
+        },
+        "options": [
+          "Come to a complete stop",
+          "Move immediately",
+          "Check that the way is clear before you move",
+          "None of these"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "Never change lanes in traffic without:",
+          "img": ""
+        },
+        "options": [
+          "Decreasing speed and giving correct signal.",
+          "Blowing your horn and looking to the rear.",
+          "Giving proper signal and looking to make sure the move can be made safely.",
+          "Looking in the rear view mirror only."
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "When should you use your turn signals and brake lights?",
+          "img": ""
+        },
+        "options": [
+          "When leaving the road or moving out from a parked position",
+          "To signal before stopping, slowing down and changing lanes",
+          "Both A and B",
+          "None of the above"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "How should you steer your vehicle when changing gears?",
+          "img": ""
+        },
+        "options": [
+          "In a straight line",
+          "To the right side",
+          "In a zig-zag manner",
+          "None of these"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Why is it important to exercise caution when driving near large commercial trucks?",
+          "img": ""
+        },
+        "options": [
+          "They mostly have inexperienced drivers",
+          "They have comparatively larger blind spots",
+          "They have high-frequency horns",
+          "They have fragile loads"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "How can you prevent other drivers from entering your blind spots?",
+          "img": ""
+        },
+        "options": [
+          "Changing your speed",
+          "They have comparatively larger blind spots",
+          "Driving fast",
+          "Both A and B"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "At a speed of 50 km/h, what is the minimum safe following distance you should maintain behind the vehicle in front of you?",
+          "img": ""
+        },
+        "options": [
+          "Five car lengths behind the other vehicle",
+          "Three car lengths behind the other vehicle",
+          "Seven car lengths behind the other vehicle",
+          "Four car lengths behind the other vehicle"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "When you drive, you should be aware of",
+          "img": ""
+        },
+        "options": [
+          "The road conditions",
+          "The traffic around you",
+          "The traffic signs and signals",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do while driving down a steep hill?",
+          "img": ""
+        },
+        "options": [
+          "Increase your speed",
+          "Come to a complete stop",
+          "Shift up and try to gradually increase your speed",
+          "Downshift and try to maintain your speed"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the appropriate response when a police car pulls over your vehicle?",
+          "img": ""
+        },
+        "options": [
+          "You should wait for instructions from the police officer.",
+          "You should start taking out money to give to the police officer.",
+          "You should be cooperative and provide all necessary documents requested by the officer.",
+          "Both A and C."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the recommended interval for checking your mirrors to stay aware of the surrounding traffic while driving?",
+          "img": ""
+        },
+        "options": [
+          "5 seconds",
+          "10 seconds",
+          "15 seconds",
+          "20 seconds"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "How should you steer your vehicle when changing gears?",
+          "img": ""
+        },
+        "options": [
+          "In a straight line",
+          "To the right side",
+          "In a zig-zag manner",
+          "None of these"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do if you are driving slower than other vehicles on a multi-lane road?",
+          "img": ""
+        },
+        "options": [
+          "Stay in the centre of the lane",
+          "Stay in the left-hand lane",
+          "Stay in the right-hand lane",
+          "Stay in the blind spot of any large vehicle"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What are some conditions in which cruise control should not be used?",
+          "img": ""
+        },
+        "options": [
+          "When you are feeling fatigued",
+          "In heavy traffic",
+          "Adverse driving conditions( icy, wet, and slippery)",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "At what speed should you generally drive at?",
+          "img": ""
+        },
+        "options": [
+          "Same as the speed of traffic",
+          "Greater than 80 km/hr",
+          "Slower than the speed of traffic",
+          "Less than 50 km/hr"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "A G1 driver must not drive",
+          "img": ""
+        },
+        "options": [
+          "During midnight",
+          "In rain",
+          "During day time",
+          "None of these"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Why should you drive slowly near construction zones and school zones?",
+          "img": ""
+        },
+        "options": [
+          "To protect workers",
+          "To protect children",
+          "Both a and b",
+          "None of the above"
+        ],
+        "answer_index": [
+          0
+        ]
+      }
+    ]
+  },
+  "cat-8": {
+    "title": "License Suspensions",
+    "question_answer_list": [
+      {
+        "question": {
+          "text": "When your license is suspended, what is the restriction regarding driving?",
+          "img": ""
+        },
+        "options": [
+          "Under any circumstances",
+          "At night",
+          "Stop within 150 metres",
+          "Commercial vehicles"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "When taking any medication, you should",
+          "img": ""
+        },
+        "options": [
+          "Drive even slower",
+          "Consult your doctor about the effects before driving",
+          "Have someone follow you home",
+          "Drinking lots of water"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What potential consequences might you confront if you are criminally convicted of impaired driving for the fourth time within a ten-year span?",
+          "img": ""
+        },
+        "options": [
+          "Use an ignition interlock device for a lifetime.",
+          "Lifetime licence suspension, with no possibility of reduction",
+          "You will have to pay a fine of $5,000 or above.",
+          "All of the above"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "As a level two G2 driver your alcohol level must be",
+          "img": ""
+        },
+        "options": [
+          "0.0005",
+          "0.0008",
+          "0",
+          "0.0012"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "If you are apprehended while driving with a suspended license due to a Criminal Code offense...",
+          "img": ""
+        },
+        "options": [
+          "Vehicle will be impounded for 45 days",
+          "You will face fines 10,000$ or above.",
+          "Spend time in jail",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the most effective way to remove alcohol from your body?",
+          "img": ""
+        },
+        "options": [
+          "Allow your body time to get rid of the alcohol",
+          "Drinking strong coffee",
+          "Taking a cold bath",
+          "Drinking more wine"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "If you engage in drinking and driving and become part of an accident, there's a possibility that your insurance provider won't cover your...",
+          "img": ""
+        },
+        "options": [
+          "Allow your body time to get rid of the alcohol",
+          "Medical or rehabilitation costs",
+          "Taking a cold bath",
+          "Drinking more wine"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "Under Mandatory HTA suspensions, Your licence will be suspended:",
+          "img": ""
+        },
+        "options": [
+          "If you don't pay a traffic fine when ordered by the court",
+          "If you fail to stop for a police officer",
+          "If you exceed the speed limit",
+          "Both a and b."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the sanctions for driving under the influence for individuals aged 21 and under or those holding a G1, G2, M1, or M2 license?",
+          "img": ""
+        },
+        "options": [
+          "You will have to pay a fine of $1,000 or above.",
+          "Just like any other fully licenced-driver",
+          "Your licenced is fully suspended",
+          "All of the above"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "When you are driving while alcohol-impaired, you may experience:",
+          "img": ""
+        },
+        "options": [
+          "Blurred vision and difficulty paying attention to the road and your surroundings",
+          "Quick reflexes",
+          "Feeling energised and paying close attention to the road and surroundings",
+          "None of the above"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "All drivers who are 21 and under, regardless of licence class, must have a BAC (blood alcohol level) level of",
+          "img": ""
+        },
+        "options": [
+          "Between 0.8-0.5",
+          "Zero",
+          "Between 1-2",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "For the initial offense, individuals who do not adhere to a request for alcohol or drug testing and have a BAC of 0.08 or higher will encounter Impairment penalties such as:",
+          "img": ""
+        },
+        "options": [
+          "7-day vehicle impoundment",
+          "Immediate roadside 90-day suspension with $550 penalty",
+          "Education and treatment program",
+          "Both a and b"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "If you are found guilty of impaired driving resulting in bodily harm, the potential prison sentence you might face is up to ________________ years.",
+          "img": ""
+        },
+        "options": [
+          "2 years",
+          "14 years",
+          "5 years",
+          "10 years"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "When you are operating a vehicle under the influence, which of the following substances would render it impossible for you to safely drive?",
+          "img": ""
+        },
+        "options": [
+          "Prescription medication",
+          "Drugs",
+          "Alcohol",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "When you are operating a vehicle under the influence, which of the following substances would render it impossible for you to safely drive?",
+          "img": ""
+        },
+        "options": [
+          "Prescription medication",
+          "Drugs",
+          "Alcohol",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the potential penalties that a court can impose on an individual who has been convicted of driving at a speed 50 km/h or more over the posted speed limit?",
+          "img": ""
+        },
+        "options": [
+          "Suspension of licence for 30 days",
+          "Impoundment of vehicle for 6 months",
+          "Suspension of licence for 6 months",
+          "Impoundment of person for 6 months"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "On the third occasion, individuals who fail or refuse to adhere to a request for alcohol or drug testing with a BAC of 0.08 or higher encounter Impairment penalties such as:",
+          "img": ""
+        },
+        "options": [
+          "Ignition Interlock condition for six months.",
+          "7-day vehicle impoundment.",
+          "Immediate roadside 90-day suspension with $550 penalty.",
+          "All of the above."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "If you are convicted criminally of impaired driving for the second time within ten years, you may face",
+          "img": ""
+        },
+        "options": [
+          "Requirement to use an ignition interlock device for at least 3 year.",
+          "You will need to undergo a mandatory medical evaluation.",
+          "Requirement to use an ignition interlock device for at least 3 year.",
+          "All of the above."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Who pays for towing and storage costs, if the vehicle is impounded?",
+          "img": ""
+        },
+        "options": [
+          "Ministry of Transportation",
+          "Owner of the vehicle",
+          "The person who's driving a car",
+          "Both a and b."
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What consequences does an individual face when they fail the Standard Field Sobriety Test for the third time while their BAC is within the warning range?",
+          "img": ""
+        },
+        "options": [
+          "Ignition Interlock condition for six months",
+          "30-day immediate licence suspension with $450 penalty.",
+          "Education or treatment program",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "In HTA suspensions, your licence will be suspended for minimum of __________________ years.",
+          "img": ""
+        },
+        "options": [
+          "Four",
+          "Five",
+          "Six",
+          "Three"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "Under Ontario’s zero-tolerance law, you are not permitted to have any alcohol in your system if you are:",
+          "img": ""
+        },
+        "options": [
+          "Driving a vehicle that requires an A-F driver’s licence",
+          "A driver of any age who holds a G1, G2, M1, or M2 licence",
+          "Age 21 or under",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "If you are convicted criminally of impaired driving for the first time, you may face",
+          "img": ""
+        },
+        "options": [
+          "Requirement to use an ignition interlock device for at least 1 year.",
+          "You must attend a mandatory education or treatment program.",
+          "Licence suspension of at least 1 year.",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "You can face charges if your blood alcohol concentration is ________________ or more",
+          "img": ""
+        },
+        "options": [
+          "0.05",
+          "0.03",
+          "0.09",
+          "0.08"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "If you are convicted criminally of impaired driving for the third time within ten years, you may face",
+          "img": ""
+        },
+        "options": [
+          "Requirement to use an ignition interlock device for at least 6 year.",
+          "You will have to pay a fine of $5,000 or above.",
+          "Lifetime licence suspension, which may be reduced after 10 years if you meet certain criteria.",
+          "Both a and c."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "No matter what age or licence you have, you can face additional fines and jail time, if you are convicted _____________ in court.",
+          "img": ""
+        },
+        "options": [
+          "Criminally of impaired driving.",
+          "Careless driving.",
+          "Alcohol-impaired driving.",
+          "None of the above."
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "If you are apprehended while operating a vehicle with a suspended license due to a Criminal Code offense, your vehicle will be subject to impoundment for a minimum of...",
+          "img": ""
+        },
+        "options": [
+          "6 days",
+          "30 days",
+          "10 days",
+          "45 days"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the blood alcohol concentration warning range?",
+          "img": ""
+        },
+        "options": [
+          "Between 0.08 and 0.099",
+          "Between 0.03 and 0.059",
+          "Between 0.03 and 0.079",
+          "Between 0.05 and 0.079"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "If you have a blood alcohol concentration (BAC) of more than 80 milligrammes per 100 millilitres (.08), your licence will be suspended immediately.",
+          "img": ""
+        },
+        "options": [
+          "For 60 days",
+          "For 30 days",
+          "For 90 days",
+          "For 1 year"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "If you are convicted of impaired driving causing death, you may be sentenced of imprisonment for",
+          "img": ""
+        },
+        "options": [
+          "Life time",
+          "14 years",
+          "20 years",
+          "10 years"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "If you are convicted of driving while your licence is suspended for an HTA offence",
+          "img": ""
+        },
+        "options": [
+          "Six months will be added to your current suspension",
+          "You may spend up to six months in jail",
+          "You will face fines 1000$ or above.",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What are the penalties for a person who fails the Standard Field Sobriety Test for the first time while within the BAC warning range?",
+          "img": ""
+        },
+        "options": [
+          "7-day immediate licence suspension with $350 penalty.",
+          "30-day immediate licence suspension with $450 penalty.",
+          "3-day immediate licence suspension with $250 penalty.",
+          "None of the above"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "For the second time, all drivers who fail or refuse to comply with a demand for alcohol or drug testing with a BAC of 0.08 or higher, face Impairment penalties of:",
+          "img": ""
+        },
+        "options": [
+          "Education and treatment program.",
+          "Immediate roadside 90-day suspension with $550 penalty.",
+          "3-day immediate licence suspension with $250 penalty.",
+          "All of the above."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "Your licence will be suspended if you are convicted of the following Criminal Code offence",
+          "img": ""
+        },
+        "options": [
+          "Causing death or bodily harm by criminal negligence",
+          "Dangerous driving",
+          "Failing to remain at the scene of a collision",
+          "All of the above."
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "To counter the dangerous behaviours of driving, Ontario law includes seven-day vehicle impoundments for:",
+          "img": ""
+        },
+        "options": [
+          "Drivers caught without a required ignition interlock",
+          "Drivers operating a vehicle while under a Criminal Code licence suspension",
+          "Drivers operating a vehicle while under a HTA licence suspension",
+          "Both a and c."
+        ],
+        "answer_index": [
+          3
+        ]
+      }
+    ]
+  },
+  "cat-9": {
+    "title": "Stopping",
+    "question_answer_list": [
+      {
+        "question": {
+          "text": "What methods are employed for indicating railway crossings on public roads in Ontario?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1396.jpg"
+        },
+        "options": [
+          "A flashing signal light and a barrier or gate",
+          "A yellow advance warning sign",
+          "A large red and white “X” sign",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "How long should you wait at a railway crossing after the train has passed?",
+          "img": ""
+        },
+        "options": [
+          "Until the barrier or gate rises",
+          "Until the lights stop flashing",
+          "Both a & b",
+          "Until another train would arrive"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do if you get trapped on a railway crossing?",
+          "img": ""
+        },
+        "options": [
+          "You should keep hustling to get out of the crossing as soon as possible",
+          "You should immediately get everyone out and away from the car",
+          "You should remain in the car until someone comes to save you",
+          "You should immediately call the authorities"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do if you get trapped on a railway crossing?",
+          "img": ""
+        },
+        "options": [
+          "Pedestrians",
+          "Cyclists",
+          "Drivers",
+          "All of the above"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the designated stopping point when you encounter a stop sign or a red traffic light?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1392.jpg"
+        },
+        "options": [
+          "At the crosswalk if there is no stop line",
+          "After the stop line marked on the pavement",
+          "At the stop line marked on the pavement",
+          "Both a & c"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "On a two-lane undivided highway, which lanes are required to stop for a school bus?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5535.jpg"
+        },
+        "options": [
+          "The lane opposite which the school bus is driving.",
+          "Both lanes must stop for a school bus.",
+          "The lane in which the school bus is driving.",
+          "No lane needs to stop."
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What should you do when approaching a railway crossing?",
+          "img": ""
+        },
+        "options": [
+          "Avoid shifting gears while crossing the track",
+          "Never race a train to a crossing",
+          "You must slow down and look both ways before crossing the track",
+          "All of the above"
+        ],
+        "answer_index": [
+          3
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the appropriate course of action when a red \"X\" is displayed over a driving lane?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1685.jpg"
+        },
+        "options": [
+          "Not enter or remain in that lane",
+          "Keep driving in that lane",
+          "Stop and then drive carefully in that lane",
+          "None of the above"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "Is it permissible to drive around, under, or through a railway gate or barrier while it is down, being lowered, or being raised?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1400.jpg"
+        },
+        "options": [
+          "Legal",
+          "Illegal",
+          "Applauded",
+          "Permitted only in emergency"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "You must not pass any vehicle within __________ metres of a pedestrian crossover.",
+          "img": ""
+        },
+        "options": [
+          "20 metres",
+          "30 metres",
+          "40 metres",
+          "50 metres"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What are pedestrian crossovers?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1409.jpg"
+        },
+        "options": [
+          "It is reserved for slow-moving vehicles",
+          "It allows pedestrians to safely cross roads where there are no traffic lights",
+          "It allows large commercial vehicles to safely park",
+          "It is reserved for cyclists"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What should safe and responsible drivers do?",
+          "img": ""
+        },
+        "options": [
+          "They should drive at whatever speed they want to",
+          "See stops ahead, check their mirrors, begin braking early and stop smoothly",
+          "They should drive reckless",
+          "None of the above"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "What is the appropriate waiting period after making a full stop before entering the intersection?",
+          "img": ""
+        },
+        "options": [
+          "There is no need to wait",
+          "Until you see traffic behind you",
+          "Until the way is clear",
+          "None of the above"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "Why should you use your right foot for both brake and gas pedals?",
+          "img": ""
+        },
+        "options": [
+          "So you can easily shift gears",
+          "So you can easily step on both pedals at the same time",
+          "So you won’t step on both pedals at the same time",
+          "None of the above"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "How do you go down a long, steep hill in a car with manual transmission?",
+          "img": ""
+        },
+        "options": [
+          "Try going in the same gear and not shifting it",
+          "Try shifting to a lower gear",
+          "Try shifting to a higher gear",
+          "None of the above"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "If you are approaching a stopped school bus from behind, then stop at least",
+          "img": ""
+        },
+        "options": [
+          "15 meters away",
+          "30 meters away",
+          "20 meters away",
+          "10 meters away"
+        ],
+        "answer_index": [
+          2
+        ]
+      },
+      {
+        "question": {
+          "text": "What sign indicates railway crossings on public roads in Ontario?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1395.jpg"
+        },
+        "options": [
+          "A large red “R” sign",
+          "A large red and white “X” sign",
+          "A large white “Y” sign",
+          "There is no sign for railway crossings"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "Which lanes should stop for the school bus on a four-lane undivided highway?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-5536.jpg"
+        },
+        "options": [
+          "On a four-lane undivided highway, not a single lane needs to stop for the school bus.",
+          "On a four-lane undivided highway, all four lanes must stop for a school bus.",
+          "Both lanes which are going in the direction of the school bus.",
+          "Both lanes which are going in the opposite direction of the school bus"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "If there are no stop line, crosswalk, or sidewalk markings on the road, what is the designated location for coming to a stop?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1394.jpg"
+        },
+        "options": [
+          "In the centre of the intersection",
+          "On a four-lane undivided highway, all four lanes must stop for a school bus.",
+          "In this case, you shouldn’t have to stop",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      },
+      {
+        "question": {
+          "text": "When should you not obey the stopping requirement for a stopped school bus?",
+          "img": ""
+        },
+        "options": [
+          "You should always obey the requirement",
+          "When driving on other than school hours",
+          "When driving over 80 km/hr",
+          "When on a public road"
+        ],
+        "answer_index": [
+          0
+        ]
+      },
+      {
+        "question": {
+          "text": "How long should you remain stopped at a school crossing?",
+          "img": "https://media.zecodeek-it.com/dtc/ss-share/questions/question-1402.jpg"
+        },
+        "options": [
+          "Until half of the children on the crossing have passed",
+          "Until everyone including crossing guards has cleared the road",
+          "Until all the children have covered half of the crossing",
+          "None of these"
+        ],
+        "answer_index": [
+          1
+        ]
+      }
+    ]
+  }
+}

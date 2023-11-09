@@ -1,0 +1,54 @@
+{
+  "AB": {
+    "title": "Alberta",
+    "flag": "https://media.zecodeek-it.com/dtc/ss-share/flags/Flag_of_Alberta.svg.png"
+  },
+  "BC": {
+    "title": "British Columbia",
+    "flag": "https://media.zecodeek-it.com/dtc/ss-share/flags/Flag_of_British_Columbia.svg.png"
+  },
+  "MB": {
+    "title": "Manitoba",
+    "flag": "https://media.zecodeek-it.com/dtc/ss-share/flags/Flag_of_Manitoba.svg.png"
+  },
+  "NB": {
+    "title": "New Brunswick",
+    "flag": "https://media.zecodeek-it.com/dtc/ss-share/flags/Flag_of_New_Brunswick.svg.png"
+  },
+  "NL": {
+    "title": "Newfoundland and Labrador",
+    "flag": "https://media.zecodeek-it.com/dtc/ss-share/flags/Flag_of_Newfoundland_and_Labrador.svg.png"
+  },
+  "NS": {
+    "title": "Nova Scotia",
+    "flag": "https://media.zecodeek-it.com/dtc/ss-share/flags/Flag_of_Nova_Scotia.svg.png"
+  },
+  "ON": {
+    "title": "Ontario",
+    "flag": "https://media.zecodeek-it.com/dtc/ss-share/flags/Flag_of_Ontario.svg.png"
+  },
+  "PE": {
+    "title": "Prince Edward Island",
+    "flag": "https://media.zecodeek-it.com/dtc/ss-share/flags/Flag_of_Prince_Edward_Island.svg.png"
+  },
+  "QC": {
+    "title": "Quebec",
+    "flag": "https://media.zecodeek-it.com/dtc/ss-share/flags/Flag_of_Quebec.svg.png"
+  },
+  "SK": {
+    "title": "Saskatchewan",
+    "flag": "https://media.zecodeek-it.com/dtc/ss-share/flags/Flag_of_Saskatchewan.svg.png"
+  },
+  "NT": {
+    "title": "Northwest Territories",
+    "flag": "https://media.zecodeek-it.com/dtc/ss-share/flags/Flag_of_the_Northwest_Territories.svg.png"
+  },
+  "YT": {
+    "title": "Yukon",
+    "flag": "https://media.zecodeek-it.com/dtc/ss-share/flags/Flag_of_Yukon.svg.png"
+  },
+  "NU": {
+    "title": "Nunavut",
+    "flag": "https://media.zecodeek-it.com/dtc/ss-share/flags/Flag_of_Nunavut.svg.png"
+  }
+}
